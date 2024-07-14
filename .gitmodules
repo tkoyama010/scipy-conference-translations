@@ -1,0 +1,3 @@
+[submodule "scipy-conference"]
+	path = scipy-conference
+	url = https://github.com/scipy-conference/scipy-conference
