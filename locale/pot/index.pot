@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-14 18:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/index.rst:2
+msgid "Welcome to the SciPy Conference's Manual"
+msgstr ""
+
+#: ../../scipy-conference/README.rst:3
+msgid "Welcome to the Scipy Conference Manual"
+msgstr ""
+
+#: ../../scipy-conference/README.rst:5
+msgid "Welcome to the Scipy Conference Manual. This project contains material to run a Scipy conference and reduce the manual work from one year to the next to build the website and its backends."
+msgstr ""
+
+#: ../../scipy-conference/README.rst:9
+msgid "You can read the rendered manual online at `https://scipy-conference.readthedocs.org/ <https://scipy-conference.readthedocs.org/>`_."
+msgstr ""
+
+#: ../../scipy-conference/README.rst:11
+msgid "It contains the following folders:"
+msgstr ""
+
+#: ../../scipy-conference/README.rst:13
+msgid "manual/ contains documentation about how to prepare the conference. It includes in particular a set of rst files to generate a manual describing the resources available, the role of the organization team, and the documentation to build and manage the website."
+msgstr ""
+
+#: ../../scipy-conference/README.rst:18
+msgid "manual/mailings/ contains templates for emails related to the conference."
+msgstr ""
+
+#: ../../scipy-conference/README.rst:20
+msgid "images/ contains images, logos, ..."
+msgstr ""
+
+#: ../../scipy-conference/README.rst:22
+msgid "auto-emailer/ contains auto-emailing Python script."
+msgstr ""
+
+#: ../../scipy-conference/index.rst:7
+msgid "Contents"
+msgstr ""
+
+#: ../../scipy-conference/index.rst:25
+msgid "Search"
+msgstr ""
+
+#: ../../scipy-conference/index.rst:27
+msgid ":ref:`search`"
+msgstr ""
