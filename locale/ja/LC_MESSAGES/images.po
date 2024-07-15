@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the SciPy Conference package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-14 18:58+0000\n"
+"POT-Creation-Date: 2024-07-14 18:59+0000\n"
 "PO-Revision-Date: 2024-07-14 18:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:2
 msgid "Randal's Drawing, SciPy 2014"
-msgstr ""
+msgstr "Randal's Drawing, SciPy 2014"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:4
 msgid "Attached is a scan of \"Randal's\" SciPy sketch."
@@ -64,11 +68,11 @@ msgstr ""
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:20
 msgid "Great conference as usual !"
-msgstr ""
+msgstr "いつものように素晴らしい会議だった！"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:22
 msgid "-Chris Barker"
-msgstr ""
+msgstr "-Chris Barker"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:24
 msgid ""
