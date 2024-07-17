@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../scipy-conference/README.rst:3
 msgid "Welcome to the SciPy Conference Manual"
-msgstr ""
+msgstr "SciPyカンファレンスマニュアルへようこそ"
 
 #: ../../scipy-conference/README.rst:5
 msgid ""
@@ -31,6 +31,8 @@ msgid ""
 "run a SciPy conference and reduce the manual work from one year to the next "
 "to build the website and its backends."
 msgstr ""
+"SciPyカンファレンスマニュアルへようこそ。 "
+"このプロジェクトは、SciPyカンファレンスを運営し、ウェブサイトとそのバックエンドを構築するための手作業を減らすための資料を含んでいます。"
 
 #: ../../scipy-conference/README.rst:9
 msgid ""

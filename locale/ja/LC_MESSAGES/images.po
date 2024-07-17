@@ -27,7 +27,7 @@ msgstr "Randal's Drawing, SciPy 2014"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:4
 msgid "Attached is a scan of \"Randal's\" SciPy sketch."
-msgstr ""
+msgstr "\"Randal の\" SciPyスケッチをスキャンしたものを添付します。"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:6
 msgid "As many of you were there, you know the story, but here it is again:"
