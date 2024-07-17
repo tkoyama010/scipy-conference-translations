@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-14 18:59+0000\n"
+"POT-Creation-Date: 2024-07-17 00:06+0000\n"
 "PO-Revision-Date: 2024-07-14 18:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
@@ -26,17 +26,15 @@ msgid "Welcome to the SciPy Conference's Manual"
 msgstr "SciPyカンファレンスのマニュアルへようこそ"
 
 #: ../../scipy-conference/README.rst:3
-msgid "Welcome to the Scipy Conference Manual"
-msgstr "Scipyカンファレンスマニュアルへようこそ"
+msgid "Welcome to the SciPy Conference Manual"
+msgstr ""
 
 #: ../../scipy-conference/README.rst:5
 msgid ""
-"Welcome to the Scipy Conference Manual. This project contains material to "
-"run a Scipy conference and reduce the manual work from one year to the next "
+"Welcome to the SciPy Conference Manual. This project contains material to "
+"run a SciPy conference and reduce the manual work from one year to the next "
 "to build the website and its backends."
 msgstr ""
-"Scipyカンファレンスマニュアルへようこそ。 "
-"このプロジェクトは、Scipyカンファレンスを運営し、ウェブサイトとそのバックエンドを構築するための手作業を減らすための資料を含んでいます。"
 
 #: ../../scipy-conference/README.rst:9
 msgid ""

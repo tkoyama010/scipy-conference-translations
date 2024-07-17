@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-14 18:58+0000\n"
+"POT-Creation-Date: 2024-07-17 00:06+0000\n"
 "PO-Revision-Date: 2024-07-14 18:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../scipy-conference/manual/calendar.rst:3
-msgid "Calendar of tasks that led to Scipy2013"
+msgid "Calendar of tasks that led to SciPy2013"
 msgstr ""
 
 #: ../../scipy-conference/manual/calendar.rst:6
@@ -1032,7 +1032,7 @@ msgstr ""
 
 #: ../../scipy-conference/manual/committees/communication.rst:112
 msgid ""
-"a Scipy conference twitter account has been created. Andy Terrel "
+"a SciPy conference twitter account has been created. Andy Terrel "
 "(andy.terrel [AT] gmail.com) is the owner and should be contacted about "
 "password. username: SciPyConf (For 2015: Courtenay Godshall has information "
 "(cgodshall [AT] enthought.com)"
@@ -1040,7 +1040,7 @@ msgstr ""
 
 #: ../../scipy-conference/manual/committees/communication.rst:116
 msgid ""
-"a google+ page ScipyConference has been created and can be reused every "
+"a google+ page SciPyConference has been created and can be reused every "
 "year: https://plus.google.com/u/0/b/100948873231627513165/ The current owner"
 " of the page is jonathanrocher [AT] gmail.com. Others are currently "
 "managers: cgodshall [AT] enthought.com"
@@ -1462,7 +1462,7 @@ msgid "Funding proposal"
 msgstr ""
 
 #: ../../scipy-conference/manual/committees/diversity.rst:54
-msgid "Women in Scientific Computing at Scipy 2014"
+msgid "Women in Scientific Computing at SciPy 2014"
 msgstr ""
 
 #: ../../scipy-conference/manual/committees/diversity.rst:56
@@ -2660,7 +2660,7 @@ msgstr ""
 #: ../../scipy-conference/manual/committees/tutorials.rst:99
 msgid ""
 "This is one of the most important in terms of bringing new people into the "
-"Scipy community. In 2013, we had to pull the attention of instructors for "
+"SciPy community. In 2013, we had to pull the attention of instructors for "
 "most of the tutorial submissions in this category.  We will need to "
 "encourage submissions and/or invite people to teach these topics. We may "
 "want to specify four 1/2 topics and invite proposals for those specific "
@@ -2700,7 +2700,7 @@ msgstr ""
 
 #: ../../scipy-conference/manual/committees/tutorials.rst:117
 msgid ""
-"Prerequisite should be basic understanding of Scipy stack, i.e. numpy, "
+"Prerequisite should be basic understanding of SciPy stack, i.e. numpy, "
 "scipy, matplotlib etc."
 msgstr ""
 
@@ -3940,7 +3940,7 @@ msgstr ""
 
 #: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:43
 msgid ""
-"Scipy reserves the right to display any and all entries, whether prize-"
+"SciPy reserves the right to display any and all entries, whether prize-"
 "winning or not, at the conference, use in any materials or on its website, "
 "with attribution to the original author(s)."
 msgstr ""
@@ -3955,7 +3955,7 @@ msgid "April 13, 2015: Plotting submissions due"
 msgstr ""
 
 #: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:52
-msgid "Winners will be announced during the Scipy conference days."
+msgid "Winners will be announced during the SciPy conference days."
 msgstr ""
 
 #: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:54
@@ -5544,7 +5544,7 @@ msgstr ""
 
 #: ../../scipy-conference/manual/sponsored_attendance.rst:10
 msgid ""
-"Use the form below to apply for a sponsorship to the Scipy 2013 Conference "
+"Use the form below to apply for a sponsorship to the SciPy 2013 Conference "
 "in Austin, TX.  The sponsorship can cover the costs of airfare, lodging, and"
 " registration or a subset thereof.  A sponsorship request can be made for "
 "any member of the SciPy community who would otherwise not be able to attend "

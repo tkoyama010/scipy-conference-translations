@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-14 18:59+0000\n"
+"POT-Creation-Date: 2024-07-17 00:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../scipy-conference/README.rst:3
-msgid "Welcome to the Scipy Conference Manual"
+msgid "Welcome to the SciPy Conference Manual"
 msgstr ""
 
 #: ../../scipy-conference/README.rst:5
-msgid "Welcome to the Scipy Conference Manual. This project contains material to run a Scipy conference and reduce the manual work from one year to the next to build the website and its backends."
+msgid "Welcome to the SciPy Conference Manual. This project contains material to run a SciPy conference and reduce the manual work from one year to the next to build the website and its backends."
 msgstr ""
 
 #: ../../scipy-conference/README.rst:9
