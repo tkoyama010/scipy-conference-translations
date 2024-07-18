@@ -31,13 +31,13 @@ msgstr "\"Randal の\" SciPyスケッチをスキャンしたものを添付し�
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:6
 msgid "As many of you were there, you know the story, but here it is again:"
-msgstr ""
+msgstr "その場に居合わせた人も多いだろうから、この話は知っていると思いますが、もう一度:"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:8
 msgid ""
 "While at the BBQ after the first day of sprints, I was approached by a local"
 " street artist asking: \"What is this SciPy thing?\"."
-msgstr ""
+msgstr "初日のスプリントの後、バーベキューをしていると、地元のストリートアーティストに声をかけられた: \"このSciPyって何ですか？\""
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:10
 msgid ""
@@ -45,26 +45,28 @@ msgid ""
 "group of folks using it to do science. Essentially the intersection of "
 "scientists and computer geeks. He responded with \"real eggheads, huh?\""
 msgstr ""
+"私は彼に、Pythonはコンピュータのプログラミング言語であり、これは科学のためにPythonを使っている人たちのグループだと言いました。 "
+"科学者とコンピューターおたくの交差点ですと。 彼は \"本物のエッグヘッズか？\" と答えました。"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:12
 msgid "15 minutes later, he returned and gave me the enclosed sketch."
-msgstr ""
+msgstr "15分後、彼は戻ってきて同封のスケッチを私に渡しました。"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:14
 msgid "I really like how he captured: \"the *chosen* language\""
-msgstr ""
+msgstr "私は彼の捕らえ方がとても好きです: \" *選ばれた* 言語\""
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:16
 msgid ""
 "We took up a collection and were able to give him a very generous donation "
 "for his efforts."
-msgstr ""
+msgstr "私たちは募金活動を行い、彼の努力に対して非常に寛大な寄付を贈ることができました。"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:18
 msgid ""
 "Not sure what to do with it now, but perhaps we might use it in promotional "
 "materials or something in the future."
-msgstr ""
+msgstr "今はどうするかわかりませんが、将来的には販促物か何かに使うかもしれません。"
 
 #: ../../scipy-conference/images/RandalsDrawing.rst:20
 msgid "Great conference as usual !"
@@ -79,3 +81,5 @@ msgid ""
 "PS: I'm not really sure how to get this out there, so I thought I'd start "
 "here. I suppose I should get a blog up on gitHub some day..."
 msgstr ""
+"追記：これをどうやって発信すればいいのかよくわからないので、まずはここから始めようと思った。 "
+"いつかgitHubにブログをアップするべきだと思うけど..."
