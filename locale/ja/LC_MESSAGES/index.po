@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-17 00:06+0000\n"
+"POT-Creation-Date: 2024-07-19 00:06+0000\n"
 "PO-Revision-Date: 2024-07-14 18:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
@@ -77,10 +77,10 @@ msgstr "auto-emailer/ には自動メール送信Pythonスクリプトが含ま�
 msgid "Contents"
 msgstr "コンテンツ"
 
-#: ../../scipy-conference/index.rst:25
+#: ../../scipy-conference/index.rst:26
 msgid "Search"
 msgstr "検索"
 
-#: ../../scipy-conference/index.rst:27
+#: ../../scipy-conference/index.rst:28
 msgid ":ref:`search`"
 msgstr ":ref:`search`"
