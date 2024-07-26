@@ -29,11 +29,11 @@ msgstr "SciPy 2018 ポストコンランチのメモ"
 msgid ""
 "Notes from the post-con lunch at the end of SciPy 2018. Notes taken by "
 "Alexandre Chabot-Leclerc."
-msgstr ""
+msgstr "SciPy 2018終了後の昼食会のメモ。 Alexandre Chabot-Leclercによるメモ。"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:8
 msgid "Grab bag"
-msgstr ""
+msgstr "グラブバッグ"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:10
 msgid "Have an \"unconference room\" + hallway track."
@@ -50,21 +50,21 @@ msgstr ""
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:18
 #: ../../scipy-conference/yearly-notes/2019/2019-post-con-lunch.rst:100
 msgid "Sprints"
-msgstr ""
+msgstr "スプリント"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:20
 msgid "Good to have an actual organization"
-msgstr ""
+msgstr "実際の組織があってよかった"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:21
 msgid ""
 "Master spreadsheet was good because it forced sprint leaders to fill out "
 "certain details"
-msgstr ""
+msgstr "マスタースプレッドシートは、スプリントリーダーに特定の詳細を記入させるので良かった。"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:23
 msgid "They should be better advertised. Do more work with Communications"
-msgstr ""
+msgstr "もっと宣伝すべきだ。 コミュニケーションとの仕事を増やす"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:24
 msgid ""
@@ -78,19 +78,21 @@ msgid ""
 " stuff with experienced members of the community. See also the idea of a "
 "mentoring program discussed below under Activities."
 msgstr ""
+"新人のためのスプリントはどうだろう？ コミュニティの経験豊富なメンバーと一緒に、自分自身の課題に取り組むというのはどうだろう。 "
+"後述する「活動」のメンター・プログラムのアイデアも参照のこと。"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:29
 msgid ""
 "Sprint financial aid didn't work well. Not really needed this year. Maybe "
 "keep it as an option?"
-msgstr ""
+msgstr "スプリントの資金援助はうまくいかなかった。 今年はあまり必要なかった。 オプションとして残しておくか？"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:34
 #: ../../scipy-conference/yearly-notes/2019/2019-post-con-lunch.rst:70
 #: ../../scipy-conference/yearly-notes/2019/bof-for-scipy-2020.rst:86
 #: ../../scipy-conference/yearly-notes/2022/bof-for-scipy-2023.rst:58
 msgid "Tutorials"
-msgstr ""
+msgstr "チュートリアル"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:36
 msgid ""
