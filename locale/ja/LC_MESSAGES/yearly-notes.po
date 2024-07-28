@@ -103,11 +103,11 @@ msgstr ""
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:39
 msgid "Tutorials mentorships for more varied applicants?"
-msgstr ""
+msgstr "より多様な志願者のためのチュートリアルメンターシップ？"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:40
 msgid "Git reviews?"
-msgstr ""
+msgstr "Gitレビュー?"
 
 #: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:41
 msgid "Add link to good past submissions in the submission form."
