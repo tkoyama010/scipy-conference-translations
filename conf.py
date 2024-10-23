@@ -22,5 +22,5 @@ locale_dirs = [os.path.join(basedir, "../locale/")]
 
 
 def setup(app):
-    app.srcdir = basedir
-    app.confdir = app.srcdir
+    app.srcdir = pathlib.Path(basedir)
+    app.confdir = pathlib.Path(app.srcdir)
