@@ -3332,6 +3332,9 @@ msgid ""
 "endorses the Python Software Foundation's `diversity statement "
 "<https://www.python.org/psf/diversity/>`_:"
 msgstr ""
+"SciPyの目標は、あらゆる人種、民族、性別、年齢、能力、宗教、性的指向の人々の参加を促す、包括的で尊重し合えるカンファレンス環境を作ることです。 "
+"SciPyは、Python Software Foundationの `diversity statement "
+"<https://www.python.org/psf/diversity/>`_ を全面的にサポートし、支持します:"
 
 #: ../../scipy-conference/manual/diversity.rst:10
 msgid ""
@@ -3341,6 +3344,9 @@ msgid ""
 " live up to these principles. We want our community to be more diverse: "
 "whoever you are, and whatever your background, we welcome you.\""
 msgstr ""
+"\"Pythonソフトウェア財団とグローバルなPythonコミュニティは、すべての人の参加を歓迎し、奨励します。 "
+"私たちのコミュニティは相互の尊敬、寛容、励ましに基づいています。 "
+"私たちのコミュニティがより多様であることを望んでいます。あなたが誰であろうと、どんなバックグラウンドを持っていようと、私たちはあなたを歓迎します。\""
 
 #: ../../scipy-conference/manual/diversity.rst:16
 msgid ""
@@ -3349,6 +3355,7 @@ msgid ""
 "submission processes, and through dialogue with the larger communities we "
 "serve."
 msgstr ""
+"私たちは、プロポーザル募集やその他のオープンな応募プロセス、そして私たちがサービスを提供するより大きなコミュニティとの対話を通じて、出席者、講演者、スポンサーの多様性を積極的に高めようとしています。"
 
 #: ../../scipy-conference/manual/diversity.rst:20
 msgid ""
@@ -3356,6 +3363,8 @@ msgid ""
 "committees, and various innovators, experts, and organizations about this "
 "goal and about ways they can help us achieve it."
 msgstr ""
+"これは現在進行中のプロセスです。 "
+"私たちは、プログラム委員長、プログラム委員会、そしてさまざまな革新者、専門家、組織と、この目標について、そして彼らが私たちの目標達成を手助けしてくれる方法について話し合っています。"
 
 #: ../../scipy-conference/manual/diversity.rst:24
 msgid ""
