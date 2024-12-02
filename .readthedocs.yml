@@ -7,11 +7,9 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
-
-sphinx:
-  configuration: conf.py
+  jobs:
+    post_install:
+      - cp -a locale scipy-conference/src/
 
 submodules:
-  include:
-    - scipy-conference
-  recursive: true
+  include: all
