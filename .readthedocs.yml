@@ -9,7 +9,7 @@ build:
     python: "3.12"
   jobs:
     post_install:
-      - cp -a locale scipy-conference
+      - cp -a locale scipy-conference/
 
 submodules:
   include: all
