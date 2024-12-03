@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:2
+msgid "Randal's Drawing, SciPy 2014"
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:4
+msgid "Attached is a scan of \"Randal's\" SciPy sketch."
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:6
+msgid "As many of you were there, you know the story, but here it is again:"
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:8
+msgid ""
+"While at the BBQ after the first day of sprints, I was approached by a local"
+" street artist asking: \"What is this SciPy thing?\"."
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:10
+msgid ""
+"I told him that Python was a computer programming language, and this was a "
+"group of folks using it to do science. Essentially the intersection of "
+"scientists and computer geeks. He responded with \"real eggheads, huh?\""
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:12
+msgid "15 minutes later, he returned and gave me the enclosed sketch."
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:14
+msgid "I really like how he captured: \"the *chosen* language\""
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:16
+msgid ""
+"We took up a collection and were able to give him a very generous donation "
+"for his efforts."
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:18
+msgid ""
+"Not sure what to do with it now, but perhaps we might use it in promotional "
+"materials or something in the future."
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:20
+msgid "Great conference as usual !"
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:22
+msgid "-Chris Barker"
+msgstr ""
+
+#: ../../scipy-conference/images/RandalsDrawing.rst:24
+msgid ""
+"PS: I'm not really sure how to get this out there, so I thought I'd start "
+"here. I suppose I should get a blog up on gitHub some day..."
+msgstr ""

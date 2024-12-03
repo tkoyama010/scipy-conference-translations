@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:2
+msgid "SciPy 2014 Conference Announcement"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:4
+msgid "SciPy 2014, the thirteenth annual Scientific Computing with Python conference, will be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering. The annual SciPy Conference allows participants from all types of organizations to showcase their latest projects, learn from skilled users and developers, and collaborate on code development."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:12
+msgid "This year the conference has been extended to include an additional day of presentations. During the presentation days SciPy is proud to host the following event and talk types:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:16
+msgid "Keynotes"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:17
+msgid "Expert Panels"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:18
+msgid "Short Talks"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:19
+msgid "Poster Presentations"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:20
+msgid "Birds of a Feather Sessions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:22
+msgid "The full program will consist of two days of tutorials by followed by three days of presentations, and concludes with two days of developer sprints on projects of interest to attendees.  This year, we are excited to present a job fair for the first time!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:27
+msgid "For more information please visit our website: https://conference.scipy.org/scipy2014/"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:30
+msgid "Specialized Tracks"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:32
+msgid "This year we are happy to announce two specialized tracks that run in parallel to the general conference:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:35
+msgid "*Scientific Computing in Education*"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:37
+msgid "Thanks to efforts such as Software Carpentry, the Hacker Within and grassroots Python Bootcamps, teaching scientific computing as a discipline is becoming more widely accepted and recognized as a crucial task in developing scientific literacy.  This special track will focus on efforts to promote and develop scientific computing education, as well as related topics such as reproducibility and best practices for scientific computing."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:44
+msgid "*Geospatial Data in Science*"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:46
+msgid "Python has become a core component of organiziing, understanding, and visualizing geospatial data.  This track will focus on libraries, tools and techniques for processing Geospatial data of all types and for all purposes -- from low-volume to high-volume, local and global."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:53
+msgid "Domain-specific Mini-symposia"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:55
+msgid "Introduced in 2012, mini-symposia are held to discuss scientific computing applied to a specific scientific domain/industry during a half afternoon after the general conference. Their goal is to promote industry specific libraries and tools, and gather people with similar interests for discussions."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:61
+msgid "Mini-symposia on the following topics will take place this year:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:63
+msgid "Astronomy and astrophysics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:64
+msgid "Bioinformatics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:65
+msgid "Geophysics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:66
+msgid "Vision, Visualization, and Imaging"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:67
+msgid "Computational Social Science and Digital Humanities"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:68
+msgid "Engineering"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:71
+msgid "Tutorials"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:73
+msgid "Multiple interactive half-day tutorials will be taught by community experts. The tutorials provide conceptual and practical coverage of tools that have broad interest at both an introductory or advanced level. This year, a third track will be added, which target specifically programmers with no prior knowledge of scientific python."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:81
+msgid "Developer Sprints"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:83
+msgid "A hackathon environment is setup for attendees to work on the core SciPy packages or their own personal projects.  The conference is an opportunity for developers that are usually physically separated to come together and engage in highly productive sessions. It is also an occasion for new community members to introduce themselves and receive tips from community experts. This year, some of the sprints will be scheduled and announced ahead of the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:92
+msgid "Birds-of-a-Feather (BOF) Sessions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:94
+msgid "Birds-of-a-Feather sessions are self-organized discussions that run parallel to the main conference.  The BOFs sessions cover primary, tangential, or unrelated topics in an interactive, discussion setting. This year, some of the BOF sessions will be scheduled and announced ahead of the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:101
+msgid "Important Dates"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:103
+msgid "March 14th: Presentation abstracts, poster, tutorial submission deadline. Application for sponsorship deadline."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:105
+msgid "April 17th: Speakers selected"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:106
+msgid "April 22nd: Sponsorship acceptance deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:107
+msgid "May 1st: Speaker schedule announced"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:108
+msgid "May 6th, or 150 registrants: Early-bird registration ends"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:109
+msgid "July 6-12th: 2 days of tutorials, 3 days of conference, 2 days of sprints"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:112
+msgid "We look forward to a very exciting conference and hope to see you all in Austin this summer!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/conference_announcement.rst:115
+msgid "The SciPy2014 Organizers"
+msgstr ""

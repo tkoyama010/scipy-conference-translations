@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:2
+msgid "Mini-symposia"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:5
+msgid "Bioinformatics"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:6
+msgid "The bioinformatics symposium focuses on reproducible, integrated and reusable Python code solving biological problems. The open source computational biology community faces numerous shared challenges including:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:10
+msgid "Producing well-tested, documented, reproducible code within the constraints of fast moving research environments."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:13
+msgid "Building code and interfaces that can be easily remixed and combined by other programmers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:16
+msgid "Developing parallelization and data-reduction methods that handle increasingly large data sizes."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:19
+msgid "Providing interfaces and visualizations that are intuitive for non-computational users while being sufficiently powerful to handle the inherently custom needs of researchers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/mini_symposia.rst:23
+msgid "We welcome abstracts submissions for creative Python solutions to these problems, especially those that build off existing scientific code and frameworks."
+msgstr ""

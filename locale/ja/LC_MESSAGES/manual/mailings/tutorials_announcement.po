@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:2
+msgid "SciPy 2014 Tutorials - Call for Submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:4
+msgid ""
+"SciPy 2014, the thirteenth annual Scientific Computing with Python "
+"conference, will be held this July 6th-12th in Austin, Texas. SciPy is a "
+"community dedicated to the advancement of scientific computing through open "
+"source Python software for mathematics, science, and engineering. The annual"
+" SciPy Conference allows participants from academic, commercial, and "
+"governmental organizations to showcase their latest projects, learn from "
+"skilled users and developers, and collaborate on code development."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:13
+msgid ""
+"The conference always kicks off with two days of tutorials. These sessions "
+"provide extremely affordable access to expert training, and consistently "
+"receive fantastic feedback from participants. This year we are expanding the"
+" tutorial session to include three parallel tracks: introductory, "
+"intermediate, and advanced."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:19
+msgid ""
+"The introductory track specifically targets programmers with no prior "
+"knowledge of scientific python and to ensure a consistent overall "
+"experience, the topics for these sessions have been fixed."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:23
+msgid ""
+"**We are now accepting tutorial proposals from individuals or teams that "
+"would like to teach a tutorial at SciPy 2014**"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:26
+msgid ""
+"Whether you are a major contributor to a scientific Python library or an "
+"expert-level user, this is a great opportunity to share your knowledge and "
+"offset some of the costs of your SciPy 2014 attendance."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:31
+msgid "Topics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:33
+msgid ""
+"Tutorials should be focused on covering a well-defined topic in a hands-on "
+"manner.  We want to see attendees coding! We encourage submissions to be "
+"designed to allow at least 50% of the time for hands-on exercises even if "
+"this means the subject matter needs to be limited. Tutorials will be 4 hours"
+" in duration and will be assigned to one of the three tracks."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:40
+msgid ""
+"For examples of content and format, you can refer to past tutorials from "
+"past SciPy tutorial sessions ([SciPy2013]_, [SciPy2012]_, [SciPy2011]_, "
+"[SciPy2010]_). We are looking for awesome techniques or packages, helping "
+"new or advanced python programmers develop better or faster scientific "
+"applications."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:46
+msgid ""
+"Submissions to the intermediate and advanced track are open to all topics "
+"but for submissions to the introductory track, please choose from one of the"
+" 4 topics listed below:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:50
+msgid "Introduction Scientific Python Basics (Numpy and IPython)"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:51
+msgid "Introduction to plotting with Matplotlib"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:52
+msgid "Overview of SciPy"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:53
+msgid "Software Carpentry"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:57
+msgid "Stipend"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:59
+msgid ""
+"In recognition of the effort required to plan and prepare a high quality "
+"tutorial, we give at least a $750 stipend to each instructor (or team of "
+"instructors) for each half-day session they lead. This may stipend may "
+"increase to $1000 depending on availability of funds."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:65
+msgid "Proposal Submission"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:67
+msgid ""
+"To submit your tutorial proposal, please go to: "
+"https://conference.scipy.org/scipy2014/tutorial_submission.php and fill in "
+"the form, or send the materials to tutorials@scipy.org. You will need to "
+"include the following:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:71
+msgid ""
+"A short bio of the presenter or team members, containing a description of "
+"past experiences as a trainer/teacher/speaker, and (ideally) links to videos"
+" of these experiences if available."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:74
+msgid ""
+"Which track the tutorial would fit best in (Introductory, Intermediate, or "
+"Advanced) and, in the case of an Introductory tutorial submission, select "
+"one of the 4 introductory topics."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:75
+msgid ""
+"A description of the tutorial, suitable for posting on the SciPy website for"
+" attendees to view. It should include the target audience, the expected "
+"level of knowledge prior to the class, and the goals of the class."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:79
+msgid ""
+"A more detailed outline of the tutorial content including the duration of "
+"each part and exercise sessions. Please include a description of how you "
+"plan to make the tutorial hands-on."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:82
+msgid ""
+"A list of Python packages that attendees will need to have installed prior "
+"to the class to follow along. Please mention if any packages are not cross "
+"platform. Installation instructions or links to installation documentation "
+"should be provided for packages that are not available through easy_install,"
+" pip, EPD, Anaconda, etc., or that require third party or compiled "
+"libraries."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:88
+msgid ""
+"If available, the tutorial notes, slides, exercise files, and iPython "
+"notebooks, even if they are preliminary."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:92
+msgid "Selection"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:94
+msgid ""
+"Accepted tutorials will be announced on May 1st. Final tutorial materials "
+"and instructions for attendees will be due on June 6th. This will include "
+"final version numbers of required software and a test script that can be run"
+" by attendees to ensure that they have sufficient time to prepare their "
+"laptops before the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:101
+msgid "Important dates:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:103
+msgid "Jan 15th:     Calls for tutorial submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:104
+msgid "Mar 14th:     Tutorial submissions due"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:105
+msgid "May 1st:      Speakers and schedule announced"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:106
+msgid ""
+"June 6th: Final submission of tutorial materials, software version numbers "
+"and test scripts."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:109
+msgid "Sunday-Monday, July 6 - 7: SciPy 2014 Tutorials, Austin TX"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:110
+msgid "Tuesday-Thursday, July 8 - 10: SciPy 2014 Conference, Austin TX"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:111
+msgid "Friday-Saturday, July 11 - 12: SciPy 2014 Sprints, Austin TX & remote"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:113
+msgid ""
+"We look forward to very exciting tutorials and hope to see you all at the "
+"conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:116
+msgid "The SciPy 2014 Tutorial Chairs"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:118
+msgid ""
+"Kristen Thyng, Postdoctoral researcher in Oceanography at Texas A&M "
+"University"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:119
+msgid ""
+"Jake VanderPlas, Postdoctoral researcher in Astronomy at University of "
+"Washington"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:121
+msgid "https://conference.scipy.org/scipy2013/tutorials.php"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:122
+msgid "https://conference.scipy.org/scipy2012/tutorials.php"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:123
+msgid "https://conference.scipy.org/scipy2011/tutorials.php"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/tutorials_announcement.rst:124
+msgid "https://conference.scipy.org/scipy2010/tutorials.html"
+msgstr ""

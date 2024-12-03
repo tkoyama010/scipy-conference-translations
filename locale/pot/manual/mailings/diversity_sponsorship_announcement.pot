@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:2
+msgid "SciPy 2014 Diversity Funding Announcement"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:4
+msgid "The thirteenth annual Scientific Python conference, SciPy 2014, will be held in July in Austin, TX. The SciPy community knows that the more people who are involved in scientific problem-solving, the better off we all will be because the diversity of perspectives leads to a diversity of solutions. Therefore, in an effort to increase the diversity, as well as the pool of people who are able to attend the conference, there are now an additional 5 funding opportunities available, thanks to generous support from NumFOCUS. To apply for this funding, supply the information indicated on the financial aid application site ([finaid]_)."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:15
+msgid "We also encourage those interested in Diversity in Scientific Computing (DISC) to consider registering for the DISC luncheon. Registration for the lunch will be available during registration for the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:21
+msgid "The SciPy 2014 Diversity Committee"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:23
+msgid "Patricia Francis-Lyon"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:24
+msgid "Katy Huff"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:25
+msgid "Leah Silen"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:26
+msgid "Kristen Thyng"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/diversity_sponsorship_announcement.rst:28
+msgid "https://conference.scipy.org/scipy2014/participate/financial_aid/"
+msgstr ""

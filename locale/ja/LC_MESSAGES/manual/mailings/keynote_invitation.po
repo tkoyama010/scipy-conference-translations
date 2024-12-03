@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:2
+msgid "Keynote Invitation"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:5
+msgid "Sample letter to contact and invite somebody to be a keynote speaker"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:8
+msgid "Dear Dr. **X**,"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:10
+msgid ""
+"On behalf of the SciPy 2013 organizing committee, I would like to invite you"
+" to present your work as a keynote speaker at the twelfth annual Scientific "
+"Computing with Python conference [0], in Austin TX, June 24th-29th. We would"
+" of course cover all your expenses for the duration of the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:16
+msgid ""
+"This year SciPy has two topical themes in addition to a general track: "
+"Machine Learning and Tools for Reproducibility. Your applications of machine"
+" learning in science would help focus our conference around a topic that is "
+"becoming more prevalent.  We expect to have two more keynotes, one on "
+"machine learning tools in Python and another on reproducibility tools, but "
+"the invitations are still pending.  On a personal note, **X**."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:24
+msgid ""
+"SciPy is a community dedicated to the advancement of scientific computing "
+"through open source Python software for mathematics, science, and "
+"engineering. At the annual SciPy Conference over 300 participants from "
+"academic, commercial, and governmental organizations showcase their latest "
+"projects, learn from skilled users and developers, and collaborate on code "
+"development. We have a thriving highly open community that you will find "
+"quite engaging and eager. It is organized in 2 days of tutorials (June "
+"24th-25th) 2 days of conference (June 26th-27th) and 2 days of sprints (June"
+" 28th-29th)."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:34
+msgid ""
+"We would appreciate if you would let us know if you can come as soon as "
+"possible. We would also be very happy to discuss this or answer whatever "
+"question you might have over the phone (or real time interaction system of "
+"your choice) if you would like."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:39
+msgid "Sincerely,"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/keynote_invitation.rst:41
+msgid ""
+"Co-chairs of SciPy 2013 Andy R. Terrel, University of Texas, "
+"andy.terrel@gmail.com Jonathan Rocher, Enthought, Inc, jrocher@enthought.com"
+msgstr ""

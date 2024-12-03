@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/committees/diversity.rst:3
+msgid "Diversity Committee"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:6
+msgid "History"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:9
+msgid "2013"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:11
+msgid "Andy Terrel and Kristen Thyng got funding from PSF and NumFOCUS to put on a Women in Scientific Computing BOF. It was held at the AT&T center and 16 people attended. It was in the evening and had some appetizers and drinks available, and was at the same time as some other evening events. People chatted for awhile, and then we sat together in a circle discussing women in scientific computing. The event was free. https://andy.terrel.us/blog/2013/07/18/women-sci-comp/"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:15
+msgid "2014"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:17
+msgid "A diversity committee was established to plan an event: Patricia Francis-Lyon, Katy Huff, Leah Silen, and Kristen Thyng. Funding was given by NumFOCUS to help sponsor the event: $500 for the lunch, $500 for the speaker, and $5000 for funding 5 diverse attendees for the conference. People attending the Diversity in Scientific Computing lunch had to reserve their place when registering and pay $10, in order to try to ensure people would actually attend (this seems to have worked pretty well). The lunch was in a private room at El Mercado and was scheduled for one hour and fifteen minutes. The location was very close to the conference center. The lunch seems to have been too short between people walking over to the lunch, sitting down, having time to chat, having a speaker (she spoke for maybe 30 minutes?), and having discussion afterward (no more than 10 minutes were available for discussion). There was also more interest in the event than there was capacity: there were tickets for 50 people and they sold out at some point (not sure how early on). https://andy.terrel.us/blog/2014/07/17/ https://kristenthyng.com/blog/2014/07/09/scipy-2014-disc/"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:23
+msgid "Ideas/thoughts for next year"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:25
+msgid "There was a suggestion for an email list in order to have a means to follow up on the event and continue the discussion. This is in the works."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:26
+msgid "Have a longer event"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:27
+msgid "Unsure about how big to make the event. It is nice to accommodate everyone who is interested, but that changes the dynamic of the discussion that is possible."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:28
+msgid "Should the event be more integrated into the entire conference instead of segregating it off?"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:29
+msgid "Note that the 2014 was intended to be more inclusive by being listed as diversity instead of being limited to women in scientific computing. More could be done to emphasize this."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:33
+msgid "Sample documents"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:36
+msgid "Email for speaker"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:38
+msgid "Hi Elaine,"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:40
+msgid "On behalf of the diversity committee for the SciPy 2014 conference, I'd like to invite you to speak at the SciPy 2014 Diversity in Scientific Computing Luncheon. As a successful woman in scientific computing, we believe that you have experiences to share with others, and, in particular, other minority groups in the scientific computing community. As thanks for your sharing your experiences with us, we'll provide an honorarium of $500."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:42
+msgid "The lunch will be at noon at El Mercado in Austin on Wednesday, July 9th. We'll be providing lunch and would ask that you speak to the group in an informal environment for 15 to 30 minutes. We expect up to 50 participants."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:44
+msgid "Please let me know if you have any questions and if you are interested in joining us."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:46
+msgid "Thanks for your consideration, Kristen Thyng, Katy Huff, Leah Silen, and Patricia Francis-Lyon SciPy 2014 Diversity Committee"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:52
+msgid "Funding proposal"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:54
+msgid "Women in Scientific Computing at SciPy 2014"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:56
+msgid "At SciPy conferences in the past, like many conferences in areas in which women have traditionally been underrepresented, women have made up a small number of the participants. Last year, an official SciPy Women in Scientific Computing event was held in an effort to start to understand what roadblocks are in place that could be cleared to increase female participation at the conference. The event was successful with many of the women at the conference attending and productive discussion."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:58
+msgid "This year, we propose to hold a lunch during the conference week for female participants and other interested attendees. The lunch would include a meal in a private dining room at a local restaurant near the conference center, and a speaker would provide some thoughts. This lunch would be an opportunity for women in scientific computing to build a network and find people with common interests ­­ something that was specifically mentioned at last year’s event as lacking for women in computing. As part of this event, we would work to help formalize that network through an email list, to ease the process of keeping in touch after the event. Additionally, we would provide NumFOCUS with a summary of the event, and we would invite a NumFOCUS presence at the event, as well."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:60
+msgid "In addition to the event itself, we would like to extend the financial aid options that are currently available to all participants in order to have a focused effort to bring female participants to the conference. Last year, it was noted that financial difficulties were a substantial problem for getting to the conference in the first place. To address this problem, we propose to offer a small number of scholarships for women to attend the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:62
+msgid "To fund these proposals, we request the follow amounts:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:64
+msgid "Luncheon: ­- $500 for venue and open drinks ­ - $500 for speaker honorarium"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:68
+msgid "Financial Aid: ­- $5000 for 5 scholarships for women scientific coders"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/diversity.rst:71
+msgid "Thank you for your consideration, Patricia Francis­-Lyon, Katy Huff, and Kristen Thyng"
+msgstr ""

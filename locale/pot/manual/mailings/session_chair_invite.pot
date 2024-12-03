@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:2
+msgid "Session Chair Invitation"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:4
+msgid "Dear XXX,"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:6
+msgid "As SciPy communications chair, I would like to invite you to be a session chair for SciPy this year. If you are willing / able to do so, please let me know so I can give you write access to the calendar. Details below.  Thanks for considering!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:10
+msgid "SIG ME"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:13
+msgid "**Session Chair Instructions**"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:15
+msgid "To do now / before the conference:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:17
+msgid "Let Anthony know that you'd like to chair a session so he can give you write access to the google calendar."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:18
+msgid "Consult the conference schedule and find a block of time (or 2 or 3 or 4) that you would like to sign up for. Ideally you will pick a session that you'd be sitting in on anyway ;)"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:20
+msgid "On the google calendar, edit the event and the corresponding block of time that you would like to sign up for by replacing the \"PUT YOUR NAME HERE\" in the event title with your actual name."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:23
+msgid "To do during the session(s):"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:25
+msgid "It is your job to make sure the conference runs on time and we are fair."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:26
+msgid "Introduce the speaker.  We'll try to squeeze bios out of them prior to the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:27
+msgid "All talks are 20 min long, please make sure the speaker gets a 5 min warning and a 1 min warning."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:28
+msgid "Do not hesitate to cut the speaker off if they go over their time."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:29
+msgid "After the talk there is a period of 5 min for questions and to switch speakers"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:30
+msgid "Don't start early if the previous speaker does not take the full 20 min."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:31
+msgid "Be sure that at least one question is asked during the Q&A portion. (Sometimes this means that you have to ask the question yourself ^_^.)"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/session_chair_invite.rst:33
+msgid "Have fun!"
+msgstr ""

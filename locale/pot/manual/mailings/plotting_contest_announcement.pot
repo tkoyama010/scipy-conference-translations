@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:2
+msgid "SciPy John Hunter Excellence in Plotting Contest"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:4
+msgid "In memory of John Hunter, we are pleased to announce the Third Annual SciPy John Hunter Excellence in Plotting Competition.  This open competition aims to highlight the importance of quality plotting to scientific progress and showcase the capabilities of the current generation of plotting software.  Participants are invited to submit scientific plots to be judged by a panel.  The winning entries will be announced and displayed at the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:12
+msgid "John Hunter’s family is graciously sponsoring cash prizes for the contest winners in the following amounts:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:15
+msgid "1st prize: $1000"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:16
+msgid "2nd prize: $750"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:17
+msgid "3rd prize: $500"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:20
+msgid "Instructions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:22
+msgid "Entries must be submitted by April 13, 2015 via e-mail to plotting-contest@scipy.org"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:25
+msgid "Plots may be produced with any combination of Python-based tools. (It is not required that they use matplotlib, for example.)"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:28
+msgid "Source code for the plot must be provided, in the form of Python code and/or IPython notebook, along with a rendering of the plot in PDF format.  If the original data can not be shared for reasons of size or licensing, \"fake\" data may be substituted, along with an image of the plot using real data."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:34
+msgid "Each entry must include a 300-500 word abstract describing the plot and its scientific importance for a general scientific audience."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:37
+msgid "Entries will be judged on their clarity, innovation and aesthetics, but most importantly for their effectiveness in illuminating real scientific work.  Entrants are encouraged to submit plots that were used during the course of research, rather than merely being hypothetical."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:43
+msgid "SciPy reserves the right to display any and all entries, whether prize-winning or not, at the conference, use in any materials or on its website, with attribution to the original author(s)."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:48
+msgid "Important dates:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:50
+msgid "April 13, 2015: Plotting submissions due"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:52
+msgid "Winners will be announced during the SciPy conference days."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:54
+msgid "We look forward to exciting submissions that push the boundaries of plotting."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:57
+msgid "The SciPy Plotting Contest Organizing Committee:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:59
+msgid "Michael Droettboom, Space Telescope Science Institute (chair)"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:60
+msgid "Jake Vanderplas, University of Washington"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/plotting_contest_announcement.rst:61
+msgid "Phil Elson, United Kingdom Met Office"
+msgstr ""

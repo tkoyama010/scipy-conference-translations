@@ -1,0 +1,571 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:3
+msgid "Tutorials"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:5
+msgid ""
+"Here there are some important points for organizing the tutorials for the "
+"SciPy conference.  They are based on the experience of previous conferences "
+"so please, for the sake of keeping future organizers happier, you are "
+"encouraged update this document in the parts that are necessary."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:13
+msgid "Decision points"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:16
+msgid "Tracks"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:18
+msgid ""
+"2013 had 3 different tracks (introductory, intermediate and advanced) with 4"
+" slots of 4 hours each per track."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:21
+msgid ""
+"Feedback was positive for this arrangement both years, and we fairly easily "
+"filled 60-80 slots per tutorial."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:23
+msgid "More details are in `mailings/tutorials_announcement.rst`"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:25
+msgid ""
+"2014 had 4 different tracks (introductory, intermediate, advanced, topics) "
+"with 4 slots of 4 hours each per track."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:28
+msgid ""
+"2015 had 5 different tracks: 1 full 2 day track for Software Carpentry and 4"
+"  tracks (Basics, Statistics and Machine Learning, Performance and "
+"Optimization, and Special Topics), which each specified a knowledge level "
+"for the individual tutorial as beginner, intermediate, or advanced, with 4 "
+"slots of 4 hours each per track. Machine Learning (2 connected tutorials) "
+"was so popular we actually had a 6th tutorial track on day 2 to repeat the "
+"tutorial from day 1."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:31
+msgid "Seating"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:33
+msgid ""
+"Before 2013, we had open seating (i.e. anybody can go to any tutorial). In "
+"2013 and 2014, we required people to sign up to attend the tutorial they "
+"were interested in, and in both years several tutorials were full."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:37
+msgid ""
+"In 2013, we had people at the door of full tutorials checking names as folks"
+" entered. This was effective, but a bit annoying."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:40
+msgid ""
+"In 2014, most of the tutorials were either full or close to full. Even "
+"\"full\" tutorials had capacity for an extra ~10 people. We did not check "
+"names at the door, and there were no complaints about lack of seating."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:44
+msgid ""
+"In 2015, most tutorials were either full or close to full, even with more "
+"tracks. Rooms ranged in size from about 60 to about 95 max and some space "
+"was left for volunteers and people to step in."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:47
+#: ../../scipy-conference/manual/committees/tutorials.rst:97
+msgid "Introductory Track"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:49
+msgid ""
+"There are two approaches to the introductory track: a single, coherent "
+"curriculum, or a mishmash of multiple intro-level tutorials. In 2013-2014, "
+"we found we needed to solicit intro tutorials from the community."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:53
+msgid ""
+"In 2013, the committee chose specific people from the community and asked "
+"them to submit intro tutorials. There were more submissions than spaces "
+"available, and this led to a nice selection of intro topics."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:57
+msgid ""
+"In 2014, we make a general solicitation when the proposal due-date was "
+"extended, and this led to a good selection of intro-level submissions."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:60
+msgid ""
+"In the early days of SciPy, there was a single tutorial track which served "
+"as a broad intro to scientific computing in Python. In years since we've "
+"moved away from that, but there was some discussion around whether it would "
+"be good to return to a multiday, coherent tutorial for beginners."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:65
+msgid ""
+"One idea for this would be to outsource to Software Carpentry, but it's not "
+"clear that Greg Wilson would support doing this. Another option is to "
+"specifically solicit intro proposals from a group of 3-4 people who are "
+"willing to work together and do a 2-day intro track from the ground up. With"
+" this, the intro track would look a lot more like the original scipy "
+"conference tutorials."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:72
+msgid ""
+"In any case, we need to make sure that the intro sections are taught by "
+"someone who has experience in getting people started from the ground-up: "
+"i.e. you can't just say \"pull this from github\" or \"run Python from the "
+"command-line\": the students may not know what \"github\" and the \"command "
+"line\" are!"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:78
+msgid ""
+"In 2015 we did have a Software Carpentry track for 2 days to try to reach "
+"out to people who are truly new. This worked pretty well: there were reports"
+" of fewer newbies in the lower level tutorials and the SC tutorial went "
+"well, but it wasn't very well attended. We think this is still a good idea, "
+"but needs to be advertised better and to be possibly broken into 4 hour "
+"chunks like the other tutorials instead of keeping people in the track the "
+"whole time."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:82
+msgid "Tracks and call for proposals"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:84
+msgid ""
+"It is a pre-condition to have the tracks nailed down before the call for "
+"submissions announcement.  In 2013, 3 different tracks (introductory, "
+"intermediate and advanced) were scheduled, and we decided to have 4 slots of"
+" 4 hours each per track. In 2014, we had four different tracks "
+"(introductory, intermediate, advanced, topical). More details can be seen in"
+" `mailings/tutorials_announcement.rst`"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:91
+msgid ""
+"In 2014 and especially 2015, we really chose the tracks based on the "
+"submissions we got."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:93
+msgid ""
+"Require that people will have their materials ready a month ahead of time "
+"and recommend that they use iPython notebooks to teach with so that the "
+"students have the materials to use later and to be able to better follow "
+"along."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:99
+msgid ""
+"This is one of the most important in terms of bringing new people into the "
+"SciPy community. In 2013, we had to pull the attention of instructors for "
+"most of the tutorial submissions in this category.  We will need to "
+"encourage submissions and/or invite people to teach these topics. We may "
+"want to specify four 1/2 topics and invite proposals for those specific "
+"topics."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:106
+msgid "Suggested 1/2 day topics in order:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:108
+msgid "Introduction Scientific Python Basics (Numpy and IPython)"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:109
+msgid "Introduction to plotting with Matplotlib"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:110
+msgid "Software carpentry: git/GitHub, unit testing"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:111
+msgid "Introduction to data analysis with pandas"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:112
+msgid ""
+"Introduction to Julia (this was presented in 2014, and received quite well)"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:115
+msgid "Intermediate Track"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:117
+msgid ""
+"Prerequisite should be basic understanding of SciPy stack, i.e. numpy, "
+"scipy, matplotlib etc."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:121
+msgid "Advanced"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:123
+msgid "Under the hood or advanced concepts."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:127
+msgid "Preselection"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:129
+msgid ""
+"After the last deadline, the tutorial co-chairs should carefully study the "
+"proposals and, depending on the requirements and 'hot topics' for the "
+"conference, select the candidates that are best suited.  For the selection "
+"it is important that you do some research about the quality of the tutors as"
+" teachers, as this is a critical parameter for increasing the quality of the"
+" tutorial tracks."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:136
+msgid ""
+"Get reviewers besides the two tutorials co-chairs to help review. Let "
+"everyone know that the reviews will be shared with the submitters. Comments "
+"are particularly important in addition to the score values."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:138
+msgid ""
+"Take notes about the submissions, because these are going to be important, "
+"specially for providing feedback in non-acceptance mails. In 2013 we almost "
+"had a 3:1 submission ratio, so better be ready for justifying the "
+"rejections.  This year we did not provided this, and some submitters got "
+"very disappointed."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:144
+msgid ""
+"For doing the preselection, it is important to get in touch with the general"
+" conference co-chairs, as they have a broader vision of the conference, and "
+"also past conferences, so they can provide a very nice insight on many "
+"different aspects of the selection."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:149
+msgid ""
+"Once the preselection is complete, send a mail to the selected tutors and "
+"ask for confirmation.  Be patient and wait until everybody confirmed.  In "
+"2013 we had a case that took several days to confirm.  In this case it helps"
+" sending a last call and requiring him to confirm in less than 24 hours "
+"(this probably helps people waiting for company management approval).  He "
+"confirmed on-time."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:156
+msgid "*Important*: Once the list of tutorials is confirmed and *prior* to"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:157
+msgid ""
+"making it public, *please please please*, send a non-acceptance message for "
+"non-selected submitters.  In 2013 some folks got angry because they found "
+"their submissions were not accepted by reading the list of accepted "
+"tutorials in the official website.  This should not happen again (in 2014 we"
+" were careful to do this, and included specific points on what, if anything,"
+" could have made the submission stronger)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:165
+msgid ""
+"*After* the messages for rejection are sent, the list can be made public.  "
+"Do the proper announcements for this."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:168
+msgid ""
+"It is important that chairs would not hurry up too much in this stage, "
+"because the selection is one of the most critical parts of the process.  "
+"Take your time for this, and our experience is that 2-3 weeks for tackling "
+"the complete selections process would be fine."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:175
+msgid "Pre-tutorials tasks"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:177
+msgid ""
+"Two months before the conference, send a welcome message to tutors with a "
+"reminder to define the software requirements as well as scripts and "
+"exercises ready by two weeks before the tutorials start. The reason of "
+"having the exercises already defined is to allow tutors help each other "
+"during the actual tutorials.  You can find an example of the welcome message"
+" in `mailings/tutorials_welcome_tutors.txt`."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:185
+msgid ""
+"Also, one month before the conference send, and in a separate message, send "
+"the results of the tutorial surveys for the previous year.  They should "
+"contain important information for them to prepare their material (and for "
+"themselves as instructors)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:190
+msgid ""
+"In 2013 we encouraged tutors to help each other during the tutorials.  This "
+"turn out to work great, specially on the introductory ones, where people "
+"tends to have more problems because they are not familiar with the "
+"environment.  You can find the message sent 1 month before the tutorials in "
+"`mailings/tutorials_help_other_tutors.txt`."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:197
+msgid ""
+"In 2014, we made this even more explicit and asked in the acceptance email "
+"if tutors would confirm their willingness to assist in another tutorial."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:200
+msgid ""
+"In 2015 we tried this again to varying degrees of success. The tutorials "
+"with the best help had their own helpers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:202
+msgid ""
+"2 weeks before the tutorials, create a mailing list for all tutors (in 2013 "
+"it was tutors2013@scipy.org) as well as different mailing list for each "
+"tutorial.  The general tutorial mailing list will be useful not only as a "
+"communication channel between organizers and tutors but also between them "
+"too (for helping each other, for example).  The specific mailing lists per "
+"each tutorial will serve for tutors to communicate with their pupils, and "
+"for organizers to send the results of the surveys (see below)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:211
+msgid ""
+"Email lists should work so that as people sign up for tutorials, they are "
+"added to the class email list."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:213
+msgid ""
+"We can make the github repo with a README file part of the application "
+"requirements next year, and then we can just automatically check the repos "
+"daily for things like check_env.py and some ipython notebooks. Maybe we "
+"could even break the stipend up to give peple $200 if they have materials up"
+" 10 days prior, and then the rest when they do the tutorial."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:215
+msgid ""
+"During the 2 week before, send a couple of messages to the tutors reminding "
+"that they *must* send their instructions to attendees for following there "
+"tutorials.  It is critical to ensure that tutors do not send that "
+"information the night before, for example (and despite all our efforts this "
+"actually happened in 2013)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:221
+msgid ""
+"Just in case, maybe programming a pre-tutorial install session will be a "
+"nice safeguard for people not doing a good job reading messages from tutors."
+"  But the goal is that nobody would actually need to attend to this session "
+"(we achieved this in 2013)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:226
+msgid ""
+"Give suggestions for style in the tutorial: use notebooks to share "
+"information and materials with students so they can follow along at their "
+"own pace. Encourage instructors not to flip around between too many screens,"
+" which can be very distracting and hard to follow. Make sure they plan in "
+"breaks which correspond to the times snacks are available."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:230
+msgid "Post-tutorial tasks"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:232
+msgid ""
+"Immediately after the tutorials are finished, a survey must be sent to the "
+"attendees for assessing the performance of the different tutors.  You can "
+"find the survey for 2013 here:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:236
+msgid ""
+"https://www.surveygizmo.com/s3/1291753/SciPy-2013-Testing-Individual-"
+"Tutorial-Experience-Feedback"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:238
+msgid ""
+"I don't know if that will survive for next years, so at the end of the "
+"document there is a text version of it."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:241
+msgid ""
+"IMPORTANT: There can be tutors attending as pupils to other tutorials, so it"
+" is *not* enough to send the survey to attendees, but you should send it "
+"also to *all* tutors too."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:245
+msgid ""
+"When the results would be ready, send them in a sensible format (e.g. text "
+"or PDF; never, ever, send a MS Word or other proprietary format) to the "
+"tutors list.  The results might be useful for next year tutors, so please "
+"store them in a sensible and *private* place. The reason for keeping the "
+"results private is that this is somewhat sensible info and some tutors may "
+"not be happy to see the survey results publicly available in a general way."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:253
+msgid ""
+"After sending the results of the survey, take your time to comment the "
+"results with tutors on the mailing list and finally send another message "
+"congratulating all of them for all the effort done."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:257
+msgid ""
+"And last but not least, take your time to update this manual so that other "
+"tutorial chairs would find clear instructions for the next awesome SciPy "
+"conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:262
+msgid "Enjoy organizing the tutorials for the next conference!"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:266
+msgid "Text version for the tutorials surveys"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:268
+msgid ""
+"Mainly have a rating (1-Strongly Disagree, 5-Strongly Agree) with a few "
+"fields for comments."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:272
+msgid ""
+"Individual Tutorial Experience Feedback (This feedback will be shared with "
+"the presenters):"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:275
+msgid "Please select the tutorials you attended/wish to comment on:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:277
+msgid "(For each tutorial checked, repeat the next five questions)"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:279
+msgid ""
+"1) The requirements for this tutorial were adequately "
+"communicated/distributed (i.e software packages required, installation, "
+"slides, data files, etc)"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:283
+#: ../../scipy-conference/manual/committees/tutorials.rst:288
+msgid "[1-5]"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:285
+msgid ""
+"2) I did not have any problems running the exercises that were part of this "
+"tutorial"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:290
+msgid ""
+"3) What do you think of the balance between talk and exercises? When "
+"answering, please keep in mind that the overall time is limited."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:293
+msgid "[Too much Talk/Just Right/To many Exercises]"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:295
+msgid ""
+"4) Did the level of the tutorial match its advertised level "
+"(intro/intermediate/advanced)?"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:298
+msgid "[Too Basic/Just Right/Too Advanced]"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:300
+msgid "How could this tutorial be improved?"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:302
+#: ../../scipy-conference/manual/committees/tutorials.rst:318
+msgid "[General Comment Field]"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:304
+msgid "Overall Tutorial Experience:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:306
+msgid ""
+"1) I learned more from attending the SciPy Conference tutorials than you "
+"would have learned from reading books and online tutorials alone?"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:309
+#: ../../scipy-conference/manual/committees/tutorials.rst:313
+msgid "[Yes/No]"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:311
+msgid "Would you recommend these tutorials to other friends and colleagues?"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/tutorials.rst:315
+msgid ""
+"3) What are ways we can improve the overall organization of SciPy Tutorials?"
+" [General Comment Field]"
+msgstr ""

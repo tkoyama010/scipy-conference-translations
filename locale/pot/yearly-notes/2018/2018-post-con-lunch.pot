@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:2
+msgid "Notes From the SciPy 2018 Post-Con Lunch"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:4
+msgid "Notes from the post-con lunch at the end of SciPy 2018. Notes taken by Alexandre Chabot-Leclerc."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:8
+msgid "Grab bag"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:10
+msgid "Have an \"unconference room\" + hallway track."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:11
+msgid "What about an official mentoring or pair programming room/session? Office hours? For people new to Python, or who just need some help. Maybe ask for experienced members of the community to volunteer a few hours during the week to \"staff\" the help room. It's some kind of Help Desk++."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:18
+msgid "Sprints"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:20
+msgid "Good to have an actual organization"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:21
+msgid "Master spreadsheet was good because it forced sprint leaders to fill out certain details"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:23
+msgid "They should be better advertised. Do more work with Communications"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:24
+msgid "Don't like the word \"sprints\" (also echoed during the SciPy 2019 BOF). Need a more inclusive name."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:26
+msgid "What about a sprint for newcomers to get started? Maybe to work on their own stuff with experienced members of the community. See also the idea of a mentoring program discussed below under Activities."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:29
+msgid "Sprint financial aid didn't work well. Not really needed this year. Maybe keep it as an option?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:34
+msgid "Tutorials"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:36
+msgid "The bar for acceptance is very high. Some proposals are much more fleshed out than others. How to make it inclusive and \"easy\" to get started, without requiring all the materials up front?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:39
+msgid "Tutorials mentorships for more varied applicants?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:40
+msgid "Git reviews?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:41
+msgid "Add link to good past submissions in the submission form."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:42
+msgid "Explicitly prompt for timing information in submission form."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:43
+msgid "Reach out to more events (with comms), e.g. PyLadies, Meetups, etc."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:44
+msgid "Not enough reviews. Co-chairs reviewed all 55 submissions. Each reviewers did 5-6 reviews."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:46
+msgid "Prompting for submissions from past attendees and from particular organizations/projects/languages worked great."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:48
+msgid "Too many attendees. The rooms were really crowed. How to control? Check badges? Silly hats? Colored lanyards?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:50
+msgid "Could we live stream popular tutorials into another room?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:54
+msgid "Program Committee"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:56
+msgid "Repeat of tutorials: The bar for acceptance is very high. Some proposals are much more fleshed out than others. How to make it inclusive and \"easy\" to get started, without requiring all the materials up front?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:59
+msgid "More submissions than last year."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:60
+msgid "Stickers + prodding works to get reviews done on time"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:61
+msgid "Reduce the number of tracks (see alternating years idea below)"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:62
+msgid "Pains with EasyChair (but with ETouches too)"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:63
+msgid "We received \"token submissions\" (very weak) from VIPs. We should manage expectations. The submissions should good from everyone. There could be some guidance in the prompt."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:66
+msgid "Similarly for reviews; they should have some substance."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:67
+msgid "The general track turned out to be less popular than other tracks"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:68
+msgid "What about tagging talks instead of tracks?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:69
+msgid "What about having single-talk tracks? It basically guarantees a track under a given name if there's a least one talk."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:71
+msgid "Some tracks would need more slots so that there's a critical mass of content for people who would normally not come to SciPy (e.g. some geoscience people). Pair with tutorials for that particular track? Maybe alternate years for certain tracks so there's more space for them? Alternate between US and EU? The downside is that we might attract more people from a given field, but not from new fields."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:77
+msgid "What about entirely open process (public), e.g., Github? Not just double open? There are concerns for GDPR."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:82
+msgid "\"Movement\" & Logistics"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:84
+msgid "Rooms were far from each other, which negatively affected the \"hallway track\". Could we use the 100 floor?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:86
+msgid "The poster sessions conflicts with the job fair. Turn the poster session into more of an event? Drinks? Even more posters?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:91
+msgid "Proceedings"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:93
+msgid "4 people is good"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:94
+msgid "Build server is great"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:95
+msgid "Starting early was good"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:96
+msgid "Not enough reviewers, some people didn't do their reviews"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:97
+msgid "Could abstract reviewers also be paper reviewers? Probably a big ask."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:98
+msgid "At prestigious computer conferences, there's a technical committee who takes care of all the reviews. They're invited. It's a prestigious position. Maybe try something similar? Put the members' names on the website? There's a concern that it may affect the path from contributor to be involved in the proceedings committee. Maybe give different titles to people on the committee? Editors, Committee Chairs, etc."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:104
+msgid "Get more people involved in the development [of the toolchain?]."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:108
+msgid "Financial Aid"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:110
+msgid "Eric hand-built a submission reviewing system (he doesn't recommend doing that)"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:112
+msgid "The expanded submission form was very valuable, but it was also more intimidating. It seems like a zero-sum game: too many boxes lead to fewer applicants."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:115
+msgid "Focus on financial aid as a way of bringing in new people (?) in addition to bringing in members of the community who would otherwise not be able to attend."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:118
+msgid "How to get more money?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:119
+msgid "How to manage financial aid for speakers? Should they get it automatically or not? Should the funds be separate? Timing with the talk acceptance is also tricky."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:125
+msgid "Activities"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:127
+msgid "80 people signed up for Broken Spoke, 55 on bus + others with other means of transportation"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:129
+msgid "General organization started too late"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:130
+msgid "Vislab was super popular"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:131
+msgid "More planning of some mentoring program. Ideas were: early career mentoring, new-to-python mentoring, and new-to-SciPy mentoring."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:133
+msgid "Clarify with committee members about the implications of being on the activities committee (tasks, deadlines, number of people, etc.)"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:138
+msgid "Sponsors"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:140
+msgid "Send sponsorship packages earlier in the year because of the timing with which some companies set their budgets."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:142
+msgid "Offer doing interview with possible candidates during SciPy to gold sponsors"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:146
+msgid "Diversity"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:148
+msgid "Meetups were good"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:149
+msgid "BoFs were great"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:150
+msgid "Do more, earlier communications"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:151
+msgid "Good discussions happened on Slack and during talks"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:152
+msgid "Some people didn't actually help even thought they said they would. How to get more dedicated committee members?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:154
+msgid "Offer diversity scholarships?"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:155
+msgid "Schedule diversity BoFs in large room after big talk, so they have more exposure, and more would likely attend."
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:160
+msgid "Communications"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:162
+msgid "Reach out to more underrepresented communities"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:163
+msgid "The spreadsheet was really useful"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:164
+msgid "Do more thorough follow up"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:168
+msgid "About the physical program"
+msgstr ""
+
+#: ../../scipy-conference/yearly-notes/2018/2018-post-con-lunch.rst:170
+msgid "Don't use two different sections about financial aid. Maybe differentiate them with footnotes?"
+msgstr ""
