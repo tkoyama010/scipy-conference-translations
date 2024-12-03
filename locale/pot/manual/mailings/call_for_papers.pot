@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:2
+msgid "Call for Papers"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:4
+msgid "Congratulations on having your abstract accepted for this year's event -- we look forward to seeing your poster or presentation! As in the past, SciPy2019 will release a conference proceedings prior to the start of the conference, and you are invited to contribute a full-length paper (up to 8 pages) expanding on your abstract."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:6
+msgid "The proceedings are aimed at highlighting significant contributions to scientific computing in Python, such as:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:8
+msgid "new software packages that support the Scientific Python Stack"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:9
+msgid "domain-specific applications of Python in any field of research"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:10
+msgid "significant improvements to existing software packages"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:11
+msgid "hardware systems designed to support the Python stack"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:12
+msgid "applications of scientific computing in education"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:13
+msgid "sustaining communities around scientific Python libraries"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:15
+msgid "Papers must be submitted as pull requests by May 21st. At that point, the five-week open review period will begin. During this time, members from the program committee and the scientific Python community at large will provide feedback, which should be addressed through discussion on GitHub and by updating the pull request."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:17
+msgid "When submitting a paper to the proceedings, you may be contacted by the Proceedings Chairs to assist in reviewing at least one paper."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:19
+msgid "Further instructions can be found here:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:21
+msgid "https://github.com/scipy-conference/scipy_proceedings"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:23
+msgid "Sincerely, the SciPy 2019 Proceedings Chairs,"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/call_for_papers.rst:25
+msgid "Chris Calloway <cbc@unc.edu> David Lippa <dalippa@gmail.com> Dillon Niederhut <dillon.niederhut@gmail.com> David Shupe <dave.shupe@gmail.com>"
+msgstr ""

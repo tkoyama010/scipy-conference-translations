@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:2
+msgid "Program Committee Chair Manual"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:5
+msgid "Assemble the Team"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:7
+msgid ""
+"The first task as program committee chairs is the assembly of the rest of "
+"the program committee.  This consists of two groups, the mini-symposium "
+"chairs and the abstract reviewers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:11
+msgid ""
+"Mini-symposium chairs should be recruited as soon as possible.  The mini-"
+"symposium address scientific python in a domain-specific sub-community. It "
+"is the mini-symposium chair's role to encourage participation from their "
+"community, select talks for the session, and organize the content of the "
+"session.  The content and organization of the session is left up to the "
+"discretion of the mini-symposium chair.  In the past, they have consisted of"
+" a series of talks, panel discussion, \"state of the community\", or a "
+"combination of the above.  Since a large amount of growth of the conference "
+"comes from the recruitment in these sub-domains, it is important to get the "
+"mini-symposium chair engaged early on."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:22
+msgid ""
+"The duties of reviewers on the program committee are not as extensive as the"
+" mini-symposium chairs, but they are very important.  A large number of "
+"reviewers are required to address the increasing number of submissions.  The"
+" number of reviewers to be recruited can be computed as::"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:29
+msgid ""
+"where r is the number of people to recruit as reviewers, s is the expected "
+"number of submissions, and a is the expected attrition rate.  Each "
+"submission should have three reviews, and ten reviews is a reasonable "
+"expectation from a reviewer.  The attrition rate depends on the set of "
+"reviewers -- it is approximately 0.3."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:36
+msgid "Track and Conference Theme Selection"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:38
+msgid ""
+"In the past the conference has been divided into one General track and two "
+"tracks related to the main themes of the conference.  The themes should be "
+"selected based on feedback from the community and the interests of the "
+"chairs. Good themes are related to \"what's hot\", have broad appeal, and "
+"have a strong Python community.  The mini-symposium themes are determined by"
+" the domain those willing to serve as mini-syposium chairs.  Four to five "
+"mini-symposia have been held per-conference in the past."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:47
+msgid "Decide on a Calendar Dates"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:49
+msgid ""
+"Adequate time needs to be given for program deadlines.  Working from the "
+"start of the conference backwards:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:52
+msgid ""
+"At least two months should be allowed before the conference starts to when "
+"the speaker and poster schedule is announced.  The schedule attracts people "
+"to the conference and allows attendees to plan their attendance. ae."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:57
+msgid ""
+"Approximately two weeks before the schedule announcements, the deadline for "
+"reviews should be planned to allow the PC chairs time to create the "
+"schedule."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:60
+msgid ""
+"Approximately three weeks prior, the abstracts should be distributed to "
+"reviewers to give them sufficient time to review."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:63
+msgid ""
+"Two weeks prior, the deadline for abstracts submissions should be place.  "
+"This allows a week for a deadline extension and a week to sort abstracts to "
+"distribute to reviewers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:67
+msgid ""
+"Approximately three months prior, the call for conference abstracts should "
+"be made to give submitters sufficient time to prepare their abstract."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:72
+msgid "Preparation of the Call for Abstracts"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:74
+msgid ""
+"The call for abstracts should be reviewed by the conference chairs, "
+"communitation chairs, and the proceedings chairs.  The call for abstracts "
+"should contain:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:78
+msgid "A general description of the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:80
+msgid "The main themes of the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:82
+msgid "The domain-specific mini-symposia themes."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:84
+msgid "Deadline dates."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:86
+msgid "Links to previous years websites."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:88
+msgid "Formatting and content requirements."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:90
+msgid "Selection process and rubric description."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:94
+msgid "The Conference Abstract Selection Process"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:96
+msgid ""
+"Conference abstracts are scored by the reviewers with criteria on a 1-10 "
+"scale. The abstracts are ranked by an overall score created by combining the"
+" normalized, weighted scores from all reviewers.  After the mini-symposium "
+"chairs have selected the submissions they would like to use in their "
+"session, the talk schedule is filled with the highest rank scores provided "
+"the submission desired a talk.  Special circumstances, such a balance "
+"between tracks, more than one talk by the same author, and the comments by "
+"the reviewers are only taken into account one the schedule starts to fill "
+"up.  Posters are similarly selected from the ranked scores."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:107
+msgid "Abstract Decision Emails"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:109
+msgid "Decision emails to all submitters should contain:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:111
+msgid "Author names."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:113
+msgid "Title."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:115
+msgid "Talk/poster/rejection decision."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:117
+msgid "Instructions with talk duration and poster size."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:119
+msgid "Reminder that all attendees must register."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:121
+msgid "Proceedings instructions."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:123
+msgid "A notification that more slots may open up."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:125
+msgid "A request for confirmation of attendance."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/program_committee.rst:127
+msgid ""
+"Then, attendance needs to be tracked, and the schedule adjusted accordingly."
+msgstr ""

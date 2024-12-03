@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:2
+msgid "Track chair instructions"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:4
+msgid "Congratulations and huge thank you for being track chair at SciPy! This page includes some instructions on what to do in this role. Some of these may change from year to year, and you will receive the most up to date information from the Program committee around the key deadlines."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:7
+msgid "SciPy Track Chair responsibilities"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:9
+msgid "With great power comes great responsibility"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:13
+msgid "The role of the track co-chairs is to help shape the program for SciPy 2024. This includes:"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:15
+msgid "encouraging submissions from your community"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:17
+msgid "help recruit reviewers for your track"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:19
+msgid "shepherd the collection of timely reviews once reviewers are assigned"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:21
+msgid "provide extra reviews, in case of need (cover for delinquent reviewers)"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:23
+msgid "make accept/reject recommendations of submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:25
+msgid "curate the track by selecting proposals for podium and poster slots"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:27
+msgid "chair the session at the conference"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:31
+msgid "Key deadlines for Program committee"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:33
+msgid "Deadline? Today?"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:37
+msgid "These vary from year to year and will be shared with you via email."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:41
+msgid "Submissions and reviews"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:43
+msgid "Yo dawg, I heard you like reviews so I created a decision spreadsheet so you can submit reviews on the reviews"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:47
+msgid "This year, the conference will be using Pretalx to manage the submissions and reviews. You can find all talks submitted for your track and their reviews in the \"Submission status_<your track>\" spreadsheet that we will share with you ahead of the track decision deadline. The spreadsheet includes some helpful tools to see the average scores for your track’s submissions, set the status and add comments. Feel free to edit the spreadsheet as needed. Once you have made your decisions, please submit your assignments via Pretalx using the instructions below."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:49
+msgid "Here are the steps to follow in Pretalx to make your selections:"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:51
+msgid "Screenshot of Pretalx reviewer tab with step by step instructions on how to submit track decisions"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:55
+msgid "Go to the “Reviews” tab."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:56
+msgid "Select “Talk” under “Session type”. Select your track under “Tracks” and click “Search”."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:57
+msgid "Click the “Accept” check mark on the row(s) for each proposal you’d like to accept as a Talk. Click “Reject” only if you believe the submission is incompatible with or does not meet the quality bar for the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:58
+msgid "For submissions that were submitted as \"Talk\" type but you want to offer a Poster slot, please click on the proposal title, change the Session type to “Poster” and click “Save”."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:60
+msgid "Screenshot of Pretalx submission tab with instructions on how to change a submission type from Talk to Poster"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:64
+msgid "**Important**: Make sure the “Mark new states as ‘pending’” checkbox is selected."
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:65
+msgid "Click on “Go.”"
+msgstr ""
+
+#: ../../scipy-conference/manual/program/track_chair_instructions.rst:66
+msgid "Repeat the above steps 2-5 for all submissions, but with Session type “Poster”. All in-person poser presenters will be considered for a back-up talk if one of the speakers can't make it. All posters that don't make it to the in-person poster session will be offered a virtual poster slot."
+msgstr ""

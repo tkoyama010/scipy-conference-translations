@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:2
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:4
+msgid "SciPy is a community conference intended for networking and collaboration in the scientific Python developer community."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:7
+msgid "We value the participation of each member of this community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by SciPy or not."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:12
+msgid "To make clear what is expected, all delegates, speakers, exhibitors and volunteers at any SciPy event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:17
+msgid "Overview"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:18
+msgid "SciPy is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:23
+msgid "All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:27
+msgid "Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for SciPy."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:31
+msgid "Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:34
+msgid "Thank you for helping make this a welcoming, friendly event for all."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:37
+msgid "Details"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:38
+msgid "Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:44
+msgid "Participants asked to stop any harassing behavior are expected to comply immediately."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:46
+msgid "Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:52
+msgid "Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for SciPy."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:56
+msgid "If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:61
+msgid "Contact Information"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:62
+msgid "If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff or a conference volunteer. You may also contact hotel staff and ask to be put in touch with the conference co-chairs — Andy Terrel & Jonathan Rocher."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:67
+msgid "If the matter is especially urgent, please call/contact any of these individuals:"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:69
+msgid "Andy Terrel (conference co-chair) at +1 (806) 410-0187"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:70
+msgid "Jonathan Rocher (conference co-chair) at +1 (512) 501-0865"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:71
+msgid "Anthony Scopatz (communications co-chair) at +1 (512) 827-8239"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:72
+msgid "Majken Tranby (communications co-chair) at +1 (512) 536-1057"
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:74
+msgid "The conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:78
+msgid "This Code of Conduct was forked the PyCon Code of Conduct, which itself was forked from the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers which is under a Creative Commons Zero license."
+msgstr ""
+
+#: ../../scipy-conference/manual/code_of_conduct.rst:82
+msgid "Conference Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License."
+msgstr ""

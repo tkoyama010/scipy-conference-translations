@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:2
+msgid "SciPy 2017 Birds of a Feather Sessions (BoFs) - Call for Submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:4
+msgid "SciPy has plenty of opportunities to get together and discuss primary, tangential, or unrelated topics in an interactive, discussion setting."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:7
+msgid "In an effort to increase the opportunities for community building, SciPy emphasizes birds of a feather (BoFs) sessions. These sessions usually include short presentations by a panel and a moderator with the bulk of the time spent opening up the discussion to everyone in attendance. BoF topics can be of general interest, such as state-of-the-project BoFs, or based on the themes of the conference and the mini-symposia topics."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:14
+msgid "Some examples from the past BoFs include Reproducibility, Jupyter Notebooks, Distributed Computing, Geospatial Packages in Python, Teaching Scientific Computing with Python, Python and Finance, NumFOCUS, Python in Astronomy, Collaborating and Contributing in Open Science, and a Matplotlib Enhancement Proposal Discussion."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:20
+msgid "We would like to solicit the community for ideas and organizers for BoF topics. Please include a small description of the BoF, possible panelists, and whether you would be willing to moderate."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/bof_announcement.rst:24
+msgid "To suggest a Birds-of-a-Feather session, fill out a brief description in the webpage (Google Form): https://scipy2017.scipy.org/ehome/220975/493427 Please submit your topic before June 27, 2017. We are looking forward to your submission!"
+msgstr ""

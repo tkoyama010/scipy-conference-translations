@@ -1,0 +1,498 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/committees/bofs.rst:2
+msgid "Birds of a Feather Sessions"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:4
+msgid ""
+"The idea behind a Birds of a Feather session is to promote community growth "
+"through informal discussion or relaxed panel discussion with substantial "
+"audience participation.  At SciPy, we've had success organizing BoFs to "
+"enable attendees interested in topics and projects to gather for discussion."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:10
+msgid "Format and Content"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:12
+msgid ""
+"There are two primary formats for BoF sessions.  The first is an informal or"
+" roundtable discussion session.  The second is a moderated panel discussion,"
+" inviting substantial contributions from the audience.  For both of these "
+"types of discussions, however, one or two moderators and organizers are "
+"necessary to ensure that the discussion is both guided and cohesive.  "
+"Moderators are encouraged to either identify participants that will attend "
+"(for roundtable or more informal BoFs and to have an estimate on numbers) or"
+" identify panelists in advance for panelist discussions."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:21
+msgid ""
+"For panelist discussions, moderators should prepare questions in advance, be"
+" prepared to keep the BoF moving along, and enable questions and answers "
+"from the audience.  Successful topics in the past have included broad "
+"discussions of reproducibility, greater inclusion of women in scientific "
+"computing, the advancement of Python within different scientific domains, "
+"future directions for scientific Python, and educational programs in Python."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:28
+msgid ""
+"For informal or roundtable BoFs, having a list of topics beforehand can be "
+"useful, but sometimes moderators have found with a small group, that a "
+"simple poll of the attendees on discussion topics can work. Although, the "
+"moderator should probably have a backup set of topics as well."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:33
+msgid ""
+"Another potential class of topics, which fits into both styles of BoF, is to"
+" hold a \"state of the project\" BoF.  This can include discussions of "
+"future directions for the project, clearing out of project business (i.e., "
+"proposals for enhancement), advocacy efforts, and general discussion of the "
+"project."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:38
+msgid "The BoF \"survival toolkit\" for submissions:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:40
+msgid "Suggested participants or panelists"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:41
+msgid "Suggested questions for panelists or topics for attendees"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:42
+msgid "Moderator"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:43
+msgid "Scheduling suggestions"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:44
+msgid "Emails for all the suggested panelists, moderators and submitters"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:47
+msgid "Scheduling"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:49
+msgid ""
+"At SciPy 2014, BoFs were given multiple time slots during the main three day"
+" conference period.  All rooms were scheduled for BoF's during this time "
+"slot, which was 45 min to 1 hour. This was a very successful scheduling "
+"arrangement because everyone was given the opportunity to attend BoFs "
+"without sacrificing other content."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:55
+msgid ""
+"The BoFs related to mini-symposia at SciPy 2014 were scheduled mostly for "
+"time and rooms adjacent to the mini-symposia themselves."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:58
+msgid ""
+"BoFs scheduling locations were posted on the conference website for easy "
+"access. Most BoFs were arranged before the conference started following the "
+"call for BoFs."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:62
+msgid "Quick tips to look out for:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:64
+msgid "Try not to schedule too many BoFs of similar topics at the same time"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:65
+msgid ""
+"Encourage mini-symposia to hold panel discussions during the mini-symposium "
+"in question"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:67
+msgid "Try not to overbook panelists"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:68
+msgid "Attempt to solicit BoFs for SciPy core projects"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:69
+msgid "Sprintable topics and projects should happen after the main conference"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:70
+msgid ""
+"Attempt to have the organizer send out an organizing email before hand if "
+"possible so that potential conflicts that are not obvious can also be "
+"avoided"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:75
+msgid "Example Emails"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:77
+msgid ""
+"Here are a few solicitation emails.  The first is the solicitation of the "
+"Astro BoF at SciPy 2013::"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:89
+msgid ""
+"Although this BoF was well-attended, there was some discussion during the "
+"BoF that it would also have been a good match for a panel during the mini-"
+"symposium, if there had been time."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:93
+msgid "Here is a soliciation email for a Future of Array Programming BoF::"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:105
+msgid "One more:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:107
+msgid "Members of the Jupyter Community,"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:109
+msgid ""
+"As one of the co-chairs in charge of organizing the birds-of-a-feather "
+"sessions at SciPy this year I wanted to reach out to your community to "
+"encourage you to submit a BoF proposal to open up a discussion on topics "
+"related to Jupyter development, future or just general questions.  Please "
+"let us know if there is anything we can help with in terms of organization."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:115
+msgid "Posting BoF Information"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:117
+msgid ""
+"Since BoFs are one of the more fluid aspects of the conference it is "
+"necessary to able to inform attendees about schedule changes and additional "
+"BoFs.  Since the program cannot be changed once printed, it was confusing to"
+" many attendees to see specific BoFs in the program when they may have been "
+"moved around.  In the future it may be wise get the BoF schedule out early "
+"enough so any corrections can be made before the schedule is printed."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:125
+msgid "Past BoFs"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:128
+#: ../../scipy-conference/manual/committees/bofs.rst:266
+msgid "SciPy 2014"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:130
+#: ../../scipy-conference/manual/committees/bofs.rst:192
+msgid "The text of the website solicitation::"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:168
+msgid "These are the Bofs listed from the SciPy 2014 Website."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:170
+msgid "You Win or You SciPy"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:171
+msgid "Programmers in Research: their place in Universities"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:172
+msgid "Matplotlib Enhancement Proposal"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:173
+msgid "Python 3 and the SciPy ecosystem"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:174
+msgid "Python in the Atmospheric and Oceanic Sciences"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:175
+msgid "Tools for Open and Reproducible Workflows"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:176
+msgid "Volunteer SciPy2015!"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:177
+msgid "Visualization"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:178
+msgid "Python in Bioinformatics"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:179
+#: ../../scipy-conference/manual/committees/bofs.rst:247
+msgid "NumFOCUS"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:180
+#: ../../scipy-conference/manual/committees/bofs.rst:320
+msgid "IPython"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:181
+msgid "SymPy"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:182
+msgid "Teaching spatial analysis using python"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:183
+msgid "Teaching the SciPy Stack"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:184
+msgid "Geospatial Data and Analysis Stack"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:185
+msgid "Emacs and Python"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:186
+msgid "NumPy"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:187
+msgid "Interactive visualization in the browser"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:190
+msgid "SciPy 2013"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:211
+msgid ""
+"These are the BoFs listed from the SciPy 2013 Website.  Most of these were "
+"held during the main part of the conference, but several were held during "
+"the sprints."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:215
+msgid "Reproducibility"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:216
+msgid ""
+"The Royal Society of London's motto is nullius in verba -- on the word of no"
+" one. Reproducibility is a practiced in science to spread understanding, "
+"prevent fraud, and ensure empirical results are verifiable. In this session,"
+" we discuss how to support the practice of reproducible science, promote "
+"tools that facilitate reproducible experiments, and what challenges are "
+"particular to Python."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:223
+msgid "Teaching scientific computing with Python"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:224
+msgid ""
+"A brainstorming / best practices session for people who have experience in "
+"teaching scientific computing with Python at undergraduate level, or who may"
+" take on this challenge in the future!"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:228
+msgid "The Future of Array Oriented Programming"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:229
+msgid ""
+"With many projects, past and present, extending NumPy and many exciting "
+"features and improvements planned for upcoming NumPy versions, we plan to "
+"provide an overview of the current projects, and discuss how people see them"
+" interacting in the future. We will try to learn from past projects to "
+"inform the ones in the works right now. We will take questions from the "
+"audience."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:236
+msgid "PyNE Updates"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:237
+msgid ""
+"PyNE is the Nuclear Engineering toolkit. We are currently gearing up for "
+"some major feature upgrades and the v0.3 release. These include better MCNP "
+"support, ENDF file handling, the addition of PyTaps-backed meshes, "
+"transmutation support, and other goodies. Come help us decide what we should"
+" do next!"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:243
+msgid "Python and Finance"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:244
+msgid ""
+"Python is increasingly used in finance due to it's excellent support for "
+"math and science libraries and readable syntax."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:248
+msgid ""
+"NumFOCUS is a non-profit foundation founded to promote the use of accessible"
+" and reproducible computing in science and technology. To accomplish this "
+"mission, it supports the following items:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:252
+msgid "Educational Programs"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:253
+msgid ""
+"The promotion of high-level languages, reproducible scientific research, and"
+" open-code development.  An increase in collaborative research tools and "
+"documentation.  In this session, we will discuss the mission and "
+"undertakings of the NumFOCUS foundation. It is a time to ask questions of "
+"our board members and suggest new or interesting activities for the "
+"foundation."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:260
+msgid "Python in Astronomy"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:261
+msgid ""
+"As a follow-on to the Mini-symposium, we will have a discussion about the "
+"current status and path forward for Python in astronomy. The goal will be to"
+" define priorities for focusing effort within the scientist and developer "
+"community."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:267
+msgid ""
+"Last year, Lauren Johnson made the great suggestion that we should have a "
+"BoF for next year's conference. Unfortunately, it wasn't suggested until "
+"near the end of the conference!  This would be a meeting to discuss plans "
+"for the 2014 conference. It would also be a great time to recruit new folks "
+"who are attending the conference that might be interested in helping next "
+"year."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:274
+msgid "Collaborating and Contributing in Open Science"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:275
+msgid ""
+"As evidenced by SciPy 2013, there are many great open science projects. The "
+"Center for Open Science and the infrastructure being developed (the Open "
+"Science Framework) seeks to connect these projects and support "
+"collaboration. We will discuss collaboration possibilities, how developers "
+"might get involved, and how best to encourage community contribution to "
+"these efforts."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:282
+msgid "Matplotlib enhancement proposal discussion"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:283
+msgid ""
+"A chance to discuss ongoing and new matplotlib enhancement proposals (MEPs)."
+" MEPs are posted on the matplotlib development wiki here: "
+"https://github.com/matplotlib/matplotlib/wiki Participants who wish to "
+"comment or help with existing MEPs or propose entirely new MEPs are welcome."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:289
+msgid "PySide development planning and sprint kickoff"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:290
+msgid ""
+"A meeting to plan future PySide development and help developers get set up "
+"for the sprint on Friday and Saturday. Topics will include fixing pyside "
+"bugs, improving shiboken, and Qt 5 support.  PySide is a Python wrapper for "
+"the Qt graphic libraries that are used by many desktop applications. More "
+"information about PySide is at https://www.pyside.org If you are a Python "
+"developer who uses PySide in your applications and/or a C++ developer "
+"interested in PySide's implementation please plan to attend."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:298
+msgid "Women in Scientific Computing: Discussion and Mixer"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:299
+msgid ""
+"Women make up a small (but growing!) number of people doing scientific "
+"computing. Many reasons have been proposed for why this may be, but many "
+"questions remain.  Join this mixer and discussion of women in the scientific"
+" coding community to start a dialogue of ways to address the lack of women. "
+"Additionally, this will be an informal environment in which to build a "
+"network of colleagues."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:306
+msgid ""
+"Data access and munging tools for oceanographic and hydrological "
+"applications"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:307
+msgid ""
+"Research and data management communities focused on watery environments "
+"(oceans, rivers, lakes, climate, etc) rely on a wide range of data sources. "
+"In addition to the multitude of idiosyncratic data conventions and "
+"structures that are used, several data encoding and transport standards have"
+" emerged, but their acceptance varies widely across communities. These "
+"include netcdf/CF, OPeNDAP, THREDDS catalogs, and OGC stack (CSW, WFS, SOS, "
+"SensorML, WaterML 2.0, etc), the first generation CUAHSI HIS stack (WOF & "
+"WaterML 1.x), WQX, and others. Different groups have also developed distinct"
+" but overlapping libraries to address these data access needs. Join us to "
+"share the tools you have developed, learn about what others are doing, and "
+"brainstorm ways to simplify our work and bring more coherence to our "
+"efforts."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/bofs.rst:321
+msgid ""
+"Location is a place holder, will take place somewhere in the sprint rooms."
+msgstr ""

@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:2
+msgid "SciPy 2014 Call for Submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:4
+msgid ""
+"SciPy 2014, the thirteenth annual Scientific Computing with Python "
+"conference, will be held this June 8th-10th in Austin, Texas. Associated "
+"tutorials and sprints will extend the conference to July 6th-12th. SciPy is "
+"a community dedicated to the advancement of scientific computing through "
+"open source Python software for mathematics, science, and engineering. The "
+"annual SciPy Conference allows participants from academic, commercial, and "
+"governmental organizations to showcase their latest projects, learn from "
+"skilled users and developers, and collaborate on code development."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:13
+msgid ""
+"The deadline for abstract submissions is *March 14th, 2014*.  Submissions "
+"are welcome that address general scientific computing with Python, or one of"
+" the two special themes for this year's conference, or the domain-specific "
+"mini-symposia held during the conference.  Examples talks from previous "
+"years are available online[1]."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:20
+msgid "Themes"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:22
+msgid "Two specialized tracks run in parallel in general conference:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:24
+msgid "Scientific Computing Education"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:25
+msgid "Geospatial Data in Science"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:27
+msgid "Mini-symposia on the following topics are also being organized:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:29
+msgid "Astronomy and astrophysics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:30
+msgid "Bioinformatics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:31
+msgid "Geophysics"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:32
+msgid "Vision, Visualization, and Imaging"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:33
+msgid "Computational Social Science and Digital Humanities"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:34
+msgid "Engineering"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:37
+msgid "Abstract submission"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:39
+msgid ""
+"The 150-300 word abstract should concisely describe software of interest to "
+"the SciPy community, tools or techniques for more effective computing, or "
+"how scientific Python was applied to solve a research problem.  A "
+"traditional background/motivation, methods, results, and conclusion "
+"structure is encouraged but not required.  Links to project websites, source"
+" code repositories, figures, full papers, and evidence of public speaking "
+"ability are encouraged."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:46
+msgid ""
+"Each abstract will be peer-reviewed by multiple members of the Program "
+"Committee Board.  Please submit your abstract at the SciPy 2014 website[2] "
+"(submission form forthcoming).  Abstracts will be accepted for posters or "
+"presentations. Optional papers to be published in the conference proceedings"
+" will be requested following abstract submission.  A draft version of the "
+"proceedings will be available during the conference to help attendees "
+"navigate talks."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:53
+msgid ""
+"We look forward to an exciting and interesting set of talks, posters, and "
+"discussions and hope to see you at the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:56
+msgid "The SciPy 2014 Program Committee Chairs"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:58
+msgid "Katy Huff, University of California - Berkeley"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:59
+msgid "Serge Rey, Arizona State University"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/call_for_submissions.rst:62
+msgid ""
+"[1]: https://conference.scipy.org/past.html [2]: "
+"https://conference.scipy.org/scipy2014/"
+msgstr ""

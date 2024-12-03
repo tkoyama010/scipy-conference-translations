@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/calendar.rst:3
+msgid "Calendar of tasks that led to SciPy2013"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:6
+msgid "This table lists at what dates milestone events occurred. The goal is to keep track of the execution calendar and to provide guidelines for future editions."
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:9
+msgid "Preparation"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:10
+msgid "Oct 2012 : Potential co-chairs contacted"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:11
+msgid "Nov 2012 : Both co-chairs chosen"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:12
+msgid "Nov 2012 : Session themes chosen: Machine Learning and GIS"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:13
+msgid "Dec 2nd 2012 :  First announcement webpage up with dates, location, way to sign up for mailing list and link to old editions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:14
+msgid "Jan 25th : Entire board chosen"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:17
+msgid "Building the program"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:19
+msgid "Feb 20th:        Calls for abstract submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:20
+msgid "Feb 28th:       Calls for submissions tutorials"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:21
+msgid "Feb 28th :      Call for sponsorship applications"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:22
+msgid "March 4st:     Call for plotting context contributions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:23
+msgid "March 15th:   Call for sprint submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:24
+msgid "Apr 3rd:         Abstract submissions deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:25
+msgid "March 25th:   Sponsorship submissions deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:26
+msgid "April 1st:       Tutorial submissions deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:27
+msgid "April 1st:       Deadline for plotting contest contributions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:28
+msgid "April 1st:       First calls for submissions BOF"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:29
+msgid "April 22th:     Speakers selected"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:30
+msgid "April 22nd:    Sponsorship acceptance deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:31
+msgid "May 1st:        Plotting contest winners announced"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:32
+msgid "May 1st:        Second calls for BOF submissions"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:33
+msgid "May 1st:        Speaker and Schedule announced"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:34
+msgid "May 6th:        Early-bird registration"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:35
+msgid "May 19th:      Paper submission deadline: review process starts"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:36
+msgid "May 24th:      Final submission of tutorial materials, software version numbers and test scripts."
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:37
+msgid "June 14th:     Paper review process deadline"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:38
+msgid "June 20th:     Proceeding generated and proceedings and papers available from the website"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:42
+msgid "CONFERENCE"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:44
+msgid "June 24 - 25: SciPy 2013 Tutorials"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:45
+msgid "June 26 - 27: SciPy 2013 Conference"
+msgstr ""
+
+#: ../../scipy-conference/manual/calendar.rst:46
+msgid "June 27 - 28: SciPy 2013 Sprints"
+msgstr ""

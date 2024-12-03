@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/open_submission_announcement_for_websites.rst:3
+msgid "Website news announcement"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/open_submission_announcement_for_websites.rst:5
+msgid ""
+"SciPy 2013, the twelfth annual Scientific Computing with Python conference, "
+"will be held June 24th - 29th in Austin, Texas.  The main conference themes "
+"are Machine Learning & Reproducible Science.  Abstract and tutorial "
+"submissions are now open until March 20th and April 1st respectively.  Find "
+"out more [here]_."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/open_submission_announcement_for_websites.rst:7
+msgid "https://conference.scipy.org/scipy2013/index.php"
+msgstr ""

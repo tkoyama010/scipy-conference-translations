@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:2
+msgid "Sponsored Attendance"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:5
+msgid "We anticipate the availability of funding to assist with the travel expenses of some students and other members of the scientific python community who otherwise might not be able to attend the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:10
+msgid "Use the form below to apply for a sponsorship to the SciPy 2013 Conference in Austin, TX.  The sponsorship can cover the costs of airfare, lodging, and registration or a subset thereof.  A sponsorship request can be made for any member of the SciPy community who would otherwise not be able to attend the conference without financial assistance."
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:17
+msgid "First Name"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:18
+msgid "Last Name"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:19
+msgid "Organization"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:21
+msgid "Organization Type"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:23
+msgid "University"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:24
+msgid "Government"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:25
+msgid "Industry"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:26
+msgid "Open Source Project"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:27
+msgid "Other"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:29
+msgid "Organization Name"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:31
+msgid "Email"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:32
+msgid "Country of Residence"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:33
+msgid "Country of Citizenship"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:34
+msgid "Nomination Type"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:35
+msgid "Nominator's Name"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:36
+msgid "Nominator's Email"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:37
+msgid "Community Contribution"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:39
+msgid "\"Briefly describe the applicant's recent contributions to the scientific Python community\""
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:41
+msgid "Description of Need"
+msgstr ""
+
+#: ../../scipy-conference/manual/sponsored_attendance.rst:43
+msgid "\"Briefly describe the applicant's level of need.\""
+msgstr ""

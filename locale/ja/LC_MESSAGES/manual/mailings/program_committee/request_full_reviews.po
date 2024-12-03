@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:2
+msgid "Request for Full Reviews"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:5
+msgid ""
+"Thank you for being on the Program Committee this year! As a result of your "
+"efforts, a full program for the conference is now available on the website "
+"and we have received a number of full papers to be published in the "
+"proceedings."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:9
+msgid ""
+"There are only 15 papers, but many hands make light work. If you think you "
+"can manage to review at least one paper please fill in your name next to it "
+"as soon as possible on this google doc:"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:13
+msgid "<doc>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:15
+msgid ""
+"Then, once you've volunteered to review some papers, go to : "
+"https://stefan.pythonanywhere.com ."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:18
+msgid ""
+"There, you can find the latest PDF of the paper to review (if it is "
+"outdated, just click on \"Build latest\").  Comments on the review can be "
+"made directly on the pull request (the paper title links to the PR)."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:22
+msgid ""
+"Reviewers should work with the authors (i.e. comment, wait for update from "
+"author, comment) until the paper is ready for inclusion in the proceedings. "
+"When the reviewer(s) deem it ready for inclusion, they can simply add a "
+"comment along the lines of \"@stefanv The paper is ready to be merged.\"."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/request_full_reviews.rst:27
+msgid ""
+"The deadline for inclusion is June 14th, so please complete your "
+"communications with the author by then."
+msgstr ""

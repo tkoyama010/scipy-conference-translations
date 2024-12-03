@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scipy-conference/manual/committees/sprints.rst:2
+msgid "Suggested Workflow for Handling Sprints at SciPy Conference"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:0
+msgid "Author"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:4
+msgid "Corran Webster"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:6
+msgid "Here are some guidelines for the sprint workflow, based on the experiences from SciPy 2013."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:11
+msgid "Announcing"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:13
+msgid "Some time after the conference announcement, send out a call for submissions for sprints.  This should point to a submission form on the website where anyone can submit a sprint proposal.  Sprint proposals should be brief: a few sentences about the project and the goals of the sprint."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:18
+msgid "In parallel, around the time of the call for submissions, informally approach various major projects in the scientific python community to encourage participation."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:22
+msgid "About a month later, send a reminder announcement, listing sprints which have already been planned."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:25
+msgid "In the announcements, indicate that there will be a \"how to sprint\" introductory lesson during the sprints.  Approach potential teachers for this session well before the conference."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:29
+msgid "In the conference schedule, ensure that there are times and locations indicated for an organizational meeting at the start (to determine which groups should use which spaces, and to announce goals) and after that the \"how to sprint\" session.  These require about 1 hour and 2 hours respectively."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:35
+msgid "just before the conference, an e-mail should be sent to sprint coordinators asking them to be prepared to say a few words about their sprint at the organizational meeting (or to delegate that responsibility to someone)."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:41
+msgid "Sprint Selection"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:43
+msgid "Sprints should be inclusive and proposals should generally be approved.The submission form on the website was moderated, but mainly to prevent spam.  In the case of two sprint proposals which are very close in nature, it may be appropriate to encourage the proposers to collaborate on a joint sprint, but this was not an issue at the 2013 sprints."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:49
+msgid "Sprint proposals should be swiftly approved as they are proposed and appear on the website to encourage potential attendees.  The aim is to have a reasonable collection of sprints described on the website well before conference registration deadlines."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:54
+msgid "There should be no deadline for proposing sprints.  Reasonable sprint proposals should be accepted right up to the day of the sprints."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:59
+msgid "Running the Sprints"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:61
+msgid "Rooms for sprinters need to be set up with desks and power strips.  Open floor-plan rooms are preferable to 'lecture-style' rooms, where available, and ideally sprinters should be able to arrange furniture to facilitate collaboration."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:66
+msgid "At the AT&T Conference Center at UT in Austin, rooms 103, 104, 107 and 108 are ideal.  The smaller breakout rooms work well for individuals who wish to work on their own projects, or smaller sub-groups who wish to work un-interupted."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:71
+msgid "Organization Meeting"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:73
+msgid "This should be in a large room that can hold all participants."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:75
+msgid "At the start of the first day of sprints, prepare a whiteboard with a list of all the proposed sprints, the sprint coordinators, and space for a room allocation."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:79
+msgid "After an introduction, the sprint co-chairs should invite sprint coordinators to briefly describe their aims for the sprint, and perhaps how sprinters may be able to contribute.  These descriptions should not require or use slides or demos.  The aim is essentially for sprint coordinators to have an opportunity to \"advertise\" for un-decided sprinters."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:85
+msgid "Following this, get a feel for the size of each sprint by show of hands.  This should allow the co-chairs to start to sketch out a distribution of sprints in the available spaces.  Several sprints can usually share a room, and co-chairs should endeavour to ensure that groups which may have synergies are in the same room, as much as possible.  Listen to sprint coordinator's preferences as well."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:92
+msgid "Following this, people can start work as needed."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:94
+msgid "The location of sprints should be recorded and posted on a noticeboard for latecomers."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:98
+msgid "\"How to sprint\" Tutorial"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:100
+msgid "This should be aimed at participants who are new to contributing to open-source projects.  You can probably assume familiarity with Python and the scientific Python stack, but not with version control and the process of open-source development."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:105
+msgid "The purpose of the talk is to prepare people to participate.  Topics which should be included are:"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:108
+msgid "tools you need: Python environment, compilers, version control, project website/central repo"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:110
+msgid "development installation: using `setup.py develop` (and in the future, possibly venv) and `setup.py build_ext --inplace`"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:112
+msgid "building documentation"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:113
+msgid "running tests"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:114
+msgid "github accounts, getting and installing git"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:115
+msgid "issue trackers (particularly on github), how to report bugs, and reasonable expectations for responses"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:117
+msgid "the github development cycle: forking github repos, cloning a repo locally, branching, doing work, pushing and pulling, making a pull-request"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:119
+msgid "ettiquette and expectations"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:121
+msgid "Ideally the lecture should have live demonstrations, and if students can follow along that's even better.  The purpose is to teach skills, and that is done best by doing."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:125
+msgid "Given the prevalence of Git and GitHub, it makes sense to focus examples on these as a matter of practicality."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:128
+msgid "Feedback from coordinators is that having a gap between when they start sprinting and when \"newbie\" sprinters join them is valuable as they have a chance to plan and start work without having to split attention towards the newer sprinters."
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:134
+msgid "The Main Sprint Session"
+msgstr ""
+
+#: ../../scipy-conference/manual/committees/sprints.rst:136
+msgid "Beyond the initial meetings, there isn't too much that the sprint co-chairs need to do: sprints are largely run by coordinators, and the role of the co-chairs is to support and facilitate as needed.  Co-chairs should be the first point of contact between coordinators and the conference committee."
+msgstr ""

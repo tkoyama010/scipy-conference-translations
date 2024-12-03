@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2024, SciPy Conference Organizers
+# This file is distributed under the same license as the SciPy Conference package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SciPy Conference 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 21:38+0000\n"
+"PO-Revision-Date: 2024-12-02 21:38+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:1
+msgid "Dear confirmed SciPy talk or poster presenter,"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:3
+msgid "SciPy 2013 is nearly upon us!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:7
+msgid "Have you registered?"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:9
+msgid ""
+"All speakers and poster presenters need to register "
+"(https://conference.scipy.org/scipy2013/registration.php). We are a "
+"community conference and can't waive these fees as they are essential to "
+"keeping the conference at the high quality it is. Those of you whom have not"
+" yet registered may receive a reminder email soon."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:15
+msgid ""
+"Once you've registered, you'll be able to suggest BoFs "
+"https://conference.scipy.org/scipy2013/bofs.php and Sprints "
+"https://conference.scipy.org/scipy2013/sprints.php . So, don't hesitate to "
+"start participating!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:22
+msgid "When are you presenting?"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:24
+msgid ""
+"Poster presenters will be presenting during the poster session, 10:35 AM - "
+"11:35 AM on June 27th. Your poster will remain on display through the "
+"entirety of the conference. Please check the online program to ensure that "
+"your poster is confirmed https://conference.scipy.org/scipy2013/posters.php "
+"."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:29
+msgid ""
+"Speakers will find their scheduled talk at "
+"https://conference.scipy.org/scipy2013/conference_talks_schedule.php ."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:34
+msgid "What is the format ?"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:36
+msgid ""
+"Poster presenters should be aware that the poster stands are made up of 2 "
+"upright poles, 2 horizontal bars and 2 bases (no wheels.) These will "
+"accommodate posters 36 or 42 inches tall and up to 72 inches wide.  Posters "
+"that are taller can hang below the bottom horizontal bar. The stands will "
+"have a foam core board in case someone needs to pin something to the "
+"background. Large metal clips will be provided to fasten posters to the "
+"metal bars if needed, but please bring your own thumbtacks or pins to fasten"
+" items to the foam core boards."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:45
+msgid ""
+"Talks in the general, machine learning, and tools for reproducibility tracks"
+" are scheduled for 30 minutes each. Please plan your talk to allow time for "
+"questions and transitions during those 30 minutes."
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:49
+msgid ""
+"Talks within the minisymposia may be of different lengths, specific to each "
+"mini-symposium. If your talk is part of a mini-symposium and you would like "
+"more information, please contact the chair for further details about the "
+"format of those symposia. Their contact information is :"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:54
+msgid "Astronomy : Tom Aldcroft <email>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:56
+msgid "Bioinformatics :  Brad Chapman <email>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:58
+msgid "GIS :  Kelsey Jordahl <email>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:60
+msgid ""
+"Meteorology, Climatology, Atmospheric/Oceanic Science : Chris Barker <email>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:62
+msgid "Medical Imaging : Gaël Varoquaux <email>"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:66
+msgid "Thank You!"
+msgstr ""
+
+#: ../../scipy-conference/manual/mailings/program_committee/final_instructions.rst:68
+msgid ""
+"We had a record number of abstract submissions this year and are looking "
+"forward to record attendance. Your contributions and participation are what "
+"will make this conference extraordinary. Thanks for your hard work. We look "
+"forward to seeing you there!"
+msgstr ""
