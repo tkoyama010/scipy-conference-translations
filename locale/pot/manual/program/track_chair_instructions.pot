@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-03 00:09+0000\n"
+"POT-Creation-Date: 2025-02-12 00:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "With great power comes great responsibility"
 msgstr ""
 
 #: ../../scipy-conference/manual/program/track_chair_instructions.rst:13
-msgid "The role of the track co-chairs is to help shape the program for SciPy 2024. This includes:"
+msgid "The role of the track co-chairs is to help shape the program for SciPy. This includes:"
 msgstr ""
 
 #: ../../scipy-conference/manual/program/track_chair_instructions.rst:15
