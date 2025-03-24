@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2014-2024, SciPy Conference Organizers
+# Copyright (C) 2014-2025, SciPy Conference Organizers
 # This file is distributed under the same license as the SciPy Conference package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SciPy Conference 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-12 00:07+0000\n"
+"POT-Creation-Date: 2025-03-08 00:06+0000\n"
 "PO-Revision-Date: 2024-12-02 21:38+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/195474/ja/)\n"
 "MIME-Version: 1.0\n"
