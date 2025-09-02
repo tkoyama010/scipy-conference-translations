@@ -27,13 +27,13 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           job_name: script
       - name: checkout with submodule
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: false
           submodules: true
           token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
       - name: Setup SSH
-        uses: MrSquaare/ssh-setup-action@2d028b70b5e397cf8314c6eaea229a6c3e34977a # v3.1.0
+        uses: MrSquaare/ssh-setup-action@7c2bf610bc02ced37f15ad1a68092145c47b9b4e # v3.1.1
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
